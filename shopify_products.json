@@ -1,0 +1,3687 @@
+[
+    {
+        "id": 9969219928404,
+        "title": "Baume intime",
+        "handle": "baume-intime-apaisant",
+        "body_html": "<p><meta charset=\"utf-8\">Ce baume-en-huile prend soin de votre intimité grâce à ses actifs naturels et bio, pour tous les jours - ou toutes les fois où l'on sent que quelque chose ne va pas en bas.</p>\n<p>-rm-</p>\n<p>C’est l’allié dont on rêvait pour éviter les sensations d'inconfort et les irritations ponctuelles. Parfait pour le quotidien, calmer une sensation de brûlure ou de démangeaison, ou à appliquer après les frottements du sport. Une dose de douceur pour apaiser la peau après le rasage ou l’épilation, après un câlin, à tout moment. À utiliser jusque sur la zone anale, par exemple en massage, ou sur les zones les plus sèches du corps (bonjour les coudes, on parle de vous).</p>",
+        "published_at": "2025-02-19T14:45:53+01:00",
+        "created_at": "2024-12-11T11:10:18+01:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "My Lubie",
+        "product_type": "Baume",
+        "tags": [
+            "NOREVIEW",
+            "NOUVEAUTÉ"
+        ],
+        "variants": [
+            {
+                "id": 50955099275604,
+                "title": "À l'unité",
+                "option1": "À l'unité",
+                "option2": null,
+                "option3": null,
+                "sku": "MYLU-RUPTURE",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": {
+                    "id": 61729608139092,
+                    "product_id": 9969219928404,
+                    "position": 1,
+                    "created_at": "2024-12-11T10:52:03+01:00",
+                    "updated_at": "2024-12-11T10:52:06+01:00",
+                    "alt": "my lubie baume intime nourrissant apaisant protecteur",
+                    "width": 2000,
+                    "height": 2000,
+                    "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/baume-intime5.jpg?v=1733910726",
+                    "variant_ids": [
+                        50955099275604
+                    ]
+                },
+                "available": false,
+                "price": "20.00",
+                "grams": 35,
+                "compare_at_price": null,
+                "position": 3,
+                "product_id": 9969219928404,
+                "created_at": "2024-12-13T14:13:21+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            },
+            {
+                "id": 50955099308372,
+                "title": "En trio",
+                "option1": "En trio",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-RUPTURE",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": {
+                    "id": 61800319123796,
+                    "product_id": 9969219928404,
+                    "position": 2,
+                    "created_at": "2024-12-13T14:08:03+01:00",
+                    "updated_at": "2024-12-13T14:08:12+01:00",
+                    "alt": "trio de baume intime",
+                    "width": 2000,
+                    "height": 2000,
+                    "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/baume-intime1.jpg?v=1734095292",
+                    "variant_ids": [
+                        50955099308372
+                    ]
+                },
+                "available": false,
+                "price": "55.00",
+                "grams": 105,
+                "compare_at_price": null,
+                "position": 4,
+                "product_id": 9969219928404,
+                "created_at": "2024-12-13T14:13:21+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 61729608139092,
+                "created_at": "2024-12-11T10:52:03+01:00",
+                "position": 1,
+                "updated_at": "2024-12-11T10:52:06+01:00",
+                "product_id": 9969219928404,
+                "variant_ids": [
+                    50955099275604
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/baume-intime5.jpg?v=1733910726",
+                "width": 2000,
+                "height": 2000
+            },
+            {
+                "id": 61800319123796,
+                "created_at": "2024-12-13T14:08:03+01:00",
+                "position": 2,
+                "updated_at": "2024-12-13T14:08:12+01:00",
+                "product_id": 9969219928404,
+                "variant_ids": [
+                    50955099308372
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/baume-intime1.jpg?v=1734095292",
+                "width": 2000,
+                "height": 2000
+            },
+            {
+                "id": 61729608204628,
+                "created_at": "2024-12-11T10:52:30+01:00",
+                "position": 3,
+                "updated_at": "2025-01-14T11:22:36+01:00",
+                "product_id": 9969219928404,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/baume-intime11.jpg?v=1736850156",
+                "width": 1500,
+                "height": 1500
+            },
+            {
+                "id": 61729608302932,
+                "created_at": "2024-12-11T10:50:30+01:00",
+                "position": 4,
+                "updated_at": "2025-01-14T11:22:36+01:00",
+                "product_id": 9969219928404,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/baume-intime10.jpg?v=1736850156",
+                "width": 1500,
+                "height": 1500
+            },
+            {
+                "id": 61729608368468,
+                "created_at": "2024-12-11T10:51:06+01:00",
+                "position": 5,
+                "updated_at": "2025-01-14T11:23:28+01:00",
+                "product_id": 9969219928404,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/baume-intime7.jpg?v=1736850208",
+                "width": 1000,
+                "height": 1000
+            },
+            {
+                "id": 63610669859156,
+                "created_at": "2025-01-28T18:07:33+01:00",
+                "position": 6,
+                "updated_at": "2025-01-28T18:07:37+01:00",
+                "product_id": 9969219928404,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/livraison-tres-discrete_-_Page_produit.jpg?v=1738084057",
+                "width": 3125,
+                "height": 3125
+            }
+        ],
+        "options": [
+            {
+                "name": "Quantité",
+                "position": 1,
+                "values": [
+                    "À l'unité",
+                    "En trio"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11801283068244,
+        "title": "6 packs de lingettes intimes rafraîchissantes",
+        "handle": "1-pack-de-lingettes-intimes-rafraichissantes-copie",
+        "body_html": "<p><span style=\"font-weight: 400;\">Tellement, tellement agréables et pratiques : des lingettes toutes douces pour s’essuyer, se rafraîchir, apaiser ses parties intimes avant ou après un câlin, ou à tout moment de la journée.</span></p>\n<p>Elles sont en celluloses (et donc jetables dans les toilettes) imbibées d’une lotion douce et naturelle. Aloe Vera, Fleur d’Oranger et Canneberge pour une composition naturelle à 99,6%, pour respecter muqueuses et peaux sensibles.</p>\n<!---->",
+        "published_at": "2025-02-06T16:02:25+01:00",
+        "created_at": "2025-01-27T10:23:00+01:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "Shadow",
+        "product_type": "",
+        "tags": [
+            "MYLUBIEXTB0225",
+            "NOREVIEW"
+        ],
+        "variants": [
+            {
+                "id": 51235533291860,
+                "title": "Default Title",
+                "option1": "Default Title",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-LINGETTE-14x6",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": null,
+                "available": true,
+                "price": "22.00",
+                "grams": 396,
+                "compare_at_price": null,
+                "position": 2,
+                "product_id": 11801283068244,
+                "created_at": "2025-01-27T10:23:01+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 30973405429899,
+                "created_at": "2022-10-20T15:59:58+02:00",
+                "position": 1,
+                "updated_at": "2025-02-06T15:58:12+01:00",
+                "product_id": 11801283068244,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/MyLubieLingettesnaturellesveganfaitenfrancemadeinfranceabased_eaugelintimelubehuileintimesexplorerbienetreintimeinnovantmoderneduneaccessoirevibrantf.jpg?v=1738853892",
+                "width": 1400,
+                "height": 1400
+            },
+            {
+                "id": 56341590901076,
+                "created_at": "2024-07-02T13:44:04+02:00",
+                "position": 2,
+                "updated_at": "2025-02-06T15:58:12+01:00",
+                "product_id": 11801283068244,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubieLingettesnaturellesveganfaitenfrancemadeinfranceabased_eaugelintimelubehuileintimesexplorerbienetreintimeinnovantmoderneduneaccessoirevibrant.jpg?v=1738853892",
+                "width": 1200,
+                "height": 1200
+            }
+        ],
+        "options": [
+            {
+                "name": "Title",
+                "position": 1,
+                "values": [
+                    "Default Title"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9972084080980,
+        "title": "Échantillon lubrifiant riche",
+        "handle": "echantillon-lubrifiant-riche",
+        "body_html": "<p>Découvrez notre lubrifiant texture riche en échantillon en format 2ml.</p>",
+        "published_at": "2025-02-06T14:31:46+01:00",
+        "created_at": "2024-12-13T10:35:30+01:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "Shadow",
+        "product_type": "Lubrifiant",
+        "tags": [
+            "NOREVIEW"
+        ],
+        "variants": [
+            {
+                "id": 50954417111380,
+                "title": "Default Title",
+                "option1": "Default Title",
+                "option2": null,
+                "option3": null,
+                "sku": "MYLU-LUBEAU-RICHE-2ML",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": null,
+                "available": true,
+                "price": "0.00",
+                "grams": 37,
+                "compare_at_price": null,
+                "position": 2,
+                "product_id": 9972084080980,
+                "created_at": "2024-12-13T10:35:31+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 62603048091988,
+                "created_at": "2025-01-03T15:34:18+01:00",
+                "position": 1,
+                "updated_at": "2025-01-03T15:34:22+01:00",
+                "product_id": 9972084080980,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/lubrifiant-riche-echantillon.jpg?v=1735914862",
+                "width": 2000,
+                "height": 2000
+            }
+        ],
+        "options": [
+            {
+                "name": "Title",
+                "position": 1,
+                "values": [
+                    "Default Title"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11743401312596,
+        "title": "Pack Bel & Bien",
+        "handle": "pack-bel-bien",
+        "body_html": "<p><span>Les essentiels sensuels et sains de My Lubie, pour des moments de plaisir seul.e, à deux ou à plus.</span><br><span>Au programme ? Stimulation ciblée avec </span><a class=\"c-link\" data-stringify-link=\"https://mylubie.com/products/aura\" data-sk=\"tooltip_parent\" href=\"https://mylubie.com/products/aura\" rel=\"noopener noreferrer\" target=\"_blank\">Aura</a><span> ou vagues de plaisir avec </span><a class=\"c-link\" data-stringify-link=\"https://mylubie.com/products/dune\" data-sk=\"tooltip_parent\" href=\"https://mylubie.com/products/dune\" rel=\"noopener noreferrer\" target=\"_blank\">Dune</a><span>. Décuplez votre plaisir selon votre humeur et vos pratiques avec nos 3 lubrifiants naturels à glisse longue durée. Sans oublier de caresser et masser votre (vos) corps avec notre Huile Soin, au parfum subtilement envoûtant.</span><span class=\"c-message__edited_label\" dir=\"ltr\" data-sk=\"tooltip_parent\"> </span></p>",
+        "published_at": "2025-01-04T09:19:24+01:00",
+        "created_at": "2024-12-19T18:03:19+01:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "My Lubie",
+        "product_type": "Coffret",
+        "tags": [
+            "-38.00€"
+        ],
+        "variants": [
+            {
+                "id": 51019859460436,
+                "title": "Dune - Sable",
+                "option1": "Dune - Sable",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-BEL-ET-BIEN-DUNE-SABLE",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": {
+                    "id": 62238890164564,
+                    "product_id": 11743401312596,
+                    "position": 1,
+                    "created_at": "2024-12-19T17:53:55+01:00",
+                    "updated_at": "2025-01-04T10:39:53+01:00",
+                    "alt": "pack bel et bien avec dune sable",
+                    "width": 2000,
+                    "height": 2000,
+                    "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/Belle-et-bien-Dune-Beige.jpg?v=1735983593",
+                    "variant_ids": [
+                        51019859460436
+                    ]
+                },
+                "available": true,
+                "price": "145.00",
+                "grams": 849,
+                "compare_at_price": null,
+                "position": 1,
+                "product_id": 11743401312596,
+                "created_at": "2024-12-20T11:05:13+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            },
+            {
+                "id": 51019859427668,
+                "title": "Dune - Bleu",
+                "option1": "Dune - Bleu",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-BEL-ET-BIEN-DUNE-BLEU",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": {
+                    "id": 62238890131796,
+                    "product_id": 11743401312596,
+                    "position": 2,
+                    "created_at": "2024-12-19T17:53:55+01:00",
+                    "updated_at": "2025-01-04T10:39:53+01:00",
+                    "alt": "pack bel et bien avec dune bleu",
+                    "width": 2000,
+                    "height": 2000,
+                    "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/Belle-et-bien-Dune-Bleu.jpg?v=1735983593",
+                    "variant_ids": [
+                        51019859427668
+                    ]
+                },
+                "available": true,
+                "price": "145.00",
+                "grams": 849,
+                "compare_at_price": null,
+                "position": 2,
+                "product_id": 11743401312596,
+                "created_at": "2024-12-20T11:05:13+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            },
+            {
+                "id": 51019859394900,
+                "title": "Aura",
+                "option1": "Aura",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-BEL-ET-BIEN-AURA",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": {
+                    "id": 62238890099028,
+                    "product_id": 11743401312596,
+                    "position": 3,
+                    "created_at": "2024-12-19T17:53:55+01:00",
+                    "updated_at": "2025-01-04T10:39:53+01:00",
+                    "alt": "pack bel et bien aura packshot",
+                    "width": 2000,
+                    "height": 2000,
+                    "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/Belle-et-bien-Aura.jpg?v=1735983593",
+                    "variant_ids": [
+                        51019859394900
+                    ]
+                },
+                "available": true,
+                "price": "150.00",
+                "grams": 877,
+                "compare_at_price": null,
+                "position": 3,
+                "product_id": 11743401312596,
+                "created_at": "2024-12-20T11:05:13+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 62238890164564,
+                "created_at": "2024-12-19T17:53:55+01:00",
+                "position": 1,
+                "updated_at": "2025-01-04T10:39:53+01:00",
+                "product_id": 11743401312596,
+                "variant_ids": [
+                    51019859460436
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/Belle-et-bien-Dune-Beige.jpg?v=1735983593",
+                "width": 2000,
+                "height": 2000
+            },
+            {
+                "id": 62238890131796,
+                "created_at": "2024-12-19T17:53:55+01:00",
+                "position": 2,
+                "updated_at": "2025-01-04T10:39:53+01:00",
+                "product_id": 11743401312596,
+                "variant_ids": [
+                    51019859427668
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/Belle-et-bien-Dune-Bleu.jpg?v=1735983593",
+                "width": 2000,
+                "height": 2000
+            },
+            {
+                "id": 62238890099028,
+                "created_at": "2024-12-19T17:53:55+01:00",
+                "position": 3,
+                "updated_at": "2025-01-04T10:39:53+01:00",
+                "product_id": 11743401312596,
+                "variant_ids": [
+                    51019859394900
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/Belle-et-bien-Aura.jpg?v=1735983593",
+                "width": 2000,
+                "height": 2000
+            },
+            {
+                "id": 54518618882388,
+                "created_at": "2024-03-26T16:24:03+01:00",
+                "position": 4,
+                "updated_at": "2025-01-04T10:39:53+01:00",
+                "product_id": 11743401312596,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubieDuneaccesoirevibrantsexualitesexuelsexfaitenFrancemadeinFranceabased_eaugelintimelubhuileintimesexplorerbienetreintimeinnovantmoderneduneaccessoirevibrantyuk_a8c94ea0-c578-40b7.jpg?v=1735983593",
+                "width": 1600,
+                "height": 1600
+            },
+            {
+                "id": 54518618849620,
+                "created_at": "2024-03-26T16:24:03+01:00",
+                "position": 5,
+                "updated_at": "2025-01-04T10:39:53+01:00",
+                "product_id": 11743401312596,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubieDuneaccesoirevibrantsexualitesexuelsexfaitenFrancemadeinFranceabased_eaugelintimelubhuileintimesexplorerbienetreintimeinnovantmoderneduneaccessoirevibrantyuk.jpg?v=1735983593",
+                "width": 1600,
+                "height": 1600
+            },
+            {
+                "id": 30962211782795,
+                "created_at": "2022-10-19T08:07:57+02:00",
+                "position": 6,
+                "updated_at": "2025-01-04T10:39:53+01:00",
+                "product_id": 11743401312596,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/My-Lubie-stimulateur-clirotidien-bien-etre-intime-sexuale-wellness-sexualite-sensualite-sex-accessoire-pulsation-clitoris-orgasme-plaisirsexeoral-vegan-francais-naturel4_dd351796-5c7e-4d38-a2f6-079e74c262d8.jpg?v=1735983593",
+                "width": 1366,
+                "height": 1366
+            },
+            {
+                "id": 61931967873364,
+                "created_at": "2024-12-16T14:38:57+01:00",
+                "position": 7,
+                "updated_at": "2024-12-20T12:50:49+01:00",
+                "product_id": 11743401312596,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/Lubrifants-riche-et-Lubrifiant-fluide_5a07ce2d-dee0-4c3a-944f-e905d930c71f.jpg?v=1734695449",
+                "width": 4000,
+                "height": 4000
+            },
+            {
+                "id": 55962845118804,
+                "created_at": "2024-06-14T16:50:43+02:00",
+                "position": 8,
+                "updated_at": "2024-12-20T12:50:49+01:00",
+                "product_id": 11743401312596,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/duo-lubrifiant-riche-fluide_1.jpg?v=1734695449",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 30974166204555,
+                "created_at": "2022-10-20T17:50:43+02:00",
+                "position": 9,
+                "updated_at": "2024-12-20T12:50:49+01:00",
+                "product_id": 11743401312596,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/100_d_originenaturelleetvegan.Stimule_nourritetapaisepourtoujoursplusdesensationsetdeplaisir.faitenfrance100100excellentuykanaturelcertifieebiohuileintimeCBDCBDsexplo_d366dc92-9d4b-4f8b-9c3f-21e47565f85b.jpg?v=1734695449",
+                "width": 1300,
+                "height": 1300
+            },
+            {
+                "id": 28361689792651,
+                "created_at": "2021-07-28T16:35:47+02:00",
+                "position": 10,
+                "updated_at": "2024-12-20T12:50:49+01:00",
+                "product_id": 11743401312596,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/HUILE_PHOTO_PRINCIPALE.jpg?v=1734695449",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 30983748321419,
+                "created_at": "2022-10-21T16:45:08+02:00",
+                "position": 11,
+                "updated_at": "2024-12-20T12:50:49+01:00",
+                "product_id": 11743401312596,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/100_d_originenaturelleetvegan.sublimenourritetdetalendpourtoujoursplusdesensationsetdeplaisir.faitenfrance100100excellentuykanaturelcertifieebiohuilesoinmassageetcorp.jpg?v=1734695449",
+                "width": 1300,
+                "height": 1300
+            },
+            {
+                "id": 29993141829771,
+                "created_at": "2022-06-08T14:34:49+02:00",
+                "position": 12,
+                "updated_at": "2024-12-20T12:50:49+01:00",
+                "product_id": 11743401312596,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/mylubie-intime-bienetre-sexualwelness-huilesoin-corps-lubrifiant-naturel-vegan-yuka-bio.jpg?v=1734695449",
+                "width": 1800,
+                "height": 1800
+            },
+            {
+                "id": 63610669859156,
+                "created_at": "2025-01-28T18:07:33+01:00",
+                "position": 13,
+                "updated_at": "2025-01-28T18:07:37+01:00",
+                "product_id": 11743401312596,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/livraison-tres-discrete_-_Page_produit.jpg?v=1738084057",
+                "width": 3125,
+                "height": 3125
+            }
+        ],
+        "options": [
+            {
+                "name": "Accessoire",
+                "position": 1,
+                "values": [
+                    "Dune - Sable",
+                    "Dune - Bleu",
+                    "Aura"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11740483420500,
+        "title": "Duo d'échantillon lubrifiant riche",
+        "handle": "duo-dechantillons-lubrifiant-riche",
+        "body_html": "<p>Découvrez notre lubrifiant naturel au toucher velours ultra-confortable, en duo d'échantillon !</p>",
+        "published_at": "2024-12-20T15:06:58+01:00",
+        "created_at": "2024-12-18T18:17:20+01:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "Shadow",
+        "product_type": "Lubrifiant",
+        "tags": [
+            "NOREVIEW"
+        ],
+        "variants": [
+            {
+                "id": 51007447466324,
+                "title": "Default Title",
+                "option1": "Default Title",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-2-ECHANT-LUB-RICHE",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": null,
+                "available": true,
+                "price": "0.00",
+                "grams": 6,
+                "compare_at_price": null,
+                "position": 2,
+                "product_id": 11740483420500,
+                "created_at": "2024-12-18T18:17:21+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 62310573441364,
+                "created_at": "2024-12-20T15:06:44+01:00",
+                "position": 1,
+                "updated_at": "2024-12-20T15:06:48+01:00",
+                "product_id": 11740483420500,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/Echantillon-duo-lubrifiants-riche-offerts.jpg?v=1734703608",
+                "width": 2000,
+                "height": 2000
+            }
+        ],
+        "options": [
+            {
+                "name": "Title",
+                "position": 1,
+                "values": [
+                    "Default Title"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9895999209812,
+        "title": "Pochette cadeau offerte",
+        "handle": "pochette-cadeau-offerte",
+        "body_html": "<p><em><strong>Plaisir d'offrir, joie de recevoir :</strong></em> la pochette cadeau My Lubie est offerte à partir de 80€ d'achat et incluse dans nos coffrets de noël en édition limitée !</p>\n<p>Dimensions : 18x23x3cm</p>",
+        "published_at": "2024-11-06T07:09:16+01:00",
+        "created_at": "2024-11-06T07:08:32+01:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "Shadow",
+        "product_type": "Coffret",
+        "tags": [
+            "Offert dès 80€"
+        ],
+        "variants": [
+            {
+                "id": 50718651908436,
+                "title": "Default Title",
+                "option1": "Default Title",
+                "option2": null,
+                "option3": null,
+                "sku": "MYLU-PETIT-SAC-CADEAU",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": null,
+                "available": true,
+                "price": "0.00",
+                "grams": 37,
+                "compare_at_price": null,
+                "position": 2,
+                "product_id": 9895999209812,
+                "created_at": "2024-11-06T07:08:32+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 59587414884692,
+                "created_at": "2024-10-30T10:12:26+01:00",
+                "position": 1,
+                "updated_at": "2024-10-30T10:12:29+01:00",
+                "product_id": 9895999209812,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubie0c1.jpg?v=1730279549",
+                "width": 4000,
+                "height": 4000
+            },
+            {
+                "id": 59587414917460,
+                "created_at": "2024-10-30T10:12:39+01:00",
+                "position": 2,
+                "updated_at": "2024-10-30T10:12:41+01:00",
+                "product_id": 9895999209812,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubie0c2.jpg?v=1730279561",
+                "width": 4000,
+                "height": 4000
+            }
+        ],
+        "options": [
+            {
+                "name": "Title",
+                "position": 1,
+                "values": [
+                    "Default Title"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9882535559508,
+        "title": "Pochette cadeau",
+        "handle": "pochette-cadeau",
+        "body_html": "<p><em><strong>Plaisir d'offrir, joie de recevoir :</strong></em> la pochette cadeau My Lubie est incluse dans nos coffrets en édition limitée !</p>\n<p>Dimensions : 18x23x3cm</p>",
+        "published_at": "2024-11-06T07:05:43+01:00",
+        "created_at": "2024-10-30T10:20:23+01:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "Shadow",
+        "product_type": "Coffret",
+        "tags": [],
+        "variants": [
+            {
+                "id": 50633718202708,
+                "title": "Default Title",
+                "option1": "Default Title",
+                "option2": null,
+                "option3": null,
+                "sku": "MYLU-PETIT-SAC-CADEAU",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": null,
+                "available": true,
+                "price": "1.50",
+                "grams": 37,
+                "compare_at_price": null,
+                "position": 2,
+                "product_id": 9882535559508,
+                "created_at": "2024-10-30T10:20:27+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 59587414884692,
+                "created_at": "2024-10-30T10:12:26+01:00",
+                "position": 1,
+                "updated_at": "2024-10-30T10:12:29+01:00",
+                "product_id": 9882535559508,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubie0c1.jpg?v=1730279549",
+                "width": 4000,
+                "height": 4000
+            },
+            {
+                "id": 59587414917460,
+                "created_at": "2024-10-30T10:12:39+01:00",
+                "position": 2,
+                "updated_at": "2024-10-30T10:12:41+01:00",
+                "product_id": 9882535559508,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubie0c2.jpg?v=1730279561",
+                "width": 4000,
+                "height": 4000
+            }
+        ],
+        "options": [
+            {
+                "name": "Title",
+                "position": 1,
+                "values": [
+                    "Default Title"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9875952402772,
+        "title": "Vibes et vibrations, le coffret",
+        "handle": "vibes-et-vibrations-le-coffret-edition-limitee",
+        "body_html": "<p><meta charset=\"utf-8\"><strong>Trois créations My Lubie, rassemblées pour leur complémentarité. </strong><br>Choisissez l’un de nos deux accessoires de plaisir vibrants, <a href=\"https://mylubie.com/products/aura\">Aura</a> ou <a href=\"https://mylubie.com/products/dune\">Dune</a>, accompagné de notre <a href=\"https://mylubie.com/products/le-lubrifiant-naturel\">lubrifiant</a> fétiche et nos <a href=\"https://mylubie.com/products/les-menottes-en-soie-avec-anneaux-clipsables\">menottes en soie</a>. À (s’)offrir pour des moments de plaisir seul.e, à deux ou à plus. Au programme ? Stimulation ciblée et vagues de plaisir. Fluidité des câlins et plaisir décuplé avec notre Lubrifiant naturel et fait en France. Et la plus douce des initiations au BDSM avec nos menottes en soie clipsables et ajustables.<br><em></em></p>\n<p><em>Plaisir d’offrir, joie de recevoir : ces produits sont livrés avec une <a href=\"https://mylubie.com/products/pochette-cadeau\">pochette cadeau</a> (déjà incluse dans votre coffret, il n'est pas nécessaire de l'ajouter au panier).</em></p>",
+        "published_at": "2024-11-06T06:46:22+01:00",
+        "created_at": "2024-10-25T18:53:38+02:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "My Lubie",
+        "product_type": "Coffret",
+        "tags": [
+            "-21.00€"
+        ],
+        "variants": [
+            {
+                "id": 50618705543508,
+                "title": "Aura",
+                "option1": "Aura",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-VIBES-AURA-MATCHA-VERT",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": {
+                    "id": 61930150527316,
+                    "product_id": 9875952402772,
+                    "position": 1,
+                    "created_at": "2024-12-16T10:24:31+01:00",
+                    "updated_at": "2024-12-16T10:25:03+01:00",
+                    "alt": "my lubie coffret vibes et vibrations",
+                    "width": 2048,
+                    "height": 2048,
+                    "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubie0ct-165_1.jpg?v=1734341103",
+                    "variant_ids": [
+                        50618705543508
+                    ]
+                },
+                "available": true,
+                "price": "124.00",
+                "grams": 582,
+                "compare_at_price": null,
+                "position": 3,
+                "product_id": 9875952402772,
+                "created_at": "2024-10-28T11:14:43+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            },
+            {
+                "id": 50618705576276,
+                "title": "Dune - Sable",
+                "option1": "Dune - Sable",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-VIBES-DUNE-SABLE-VERT",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": {
+                    "id": 61930150461780,
+                    "product_id": 9875952402772,
+                    "position": 2,
+                    "created_at": "2024-12-16T10:24:31+01:00",
+                    "updated_at": "2024-12-16T10:25:03+01:00",
+                    "alt": "my lubie coffret vibes et vibrations",
+                    "width": 2048,
+                    "height": 2048,
+                    "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubie0ct-163_1.jpg?v=1734341103",
+                    "variant_ids": [
+                        50618705576276
+                    ]
+                },
+                "available": true,
+                "price": "119.00",
+                "grams": 554,
+                "compare_at_price": null,
+                "position": 4,
+                "product_id": 9875952402772,
+                "created_at": "2024-10-28T11:14:43+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            },
+            {
+                "id": 50618705609044,
+                "title": "Dune -  Bleu",
+                "option1": "Dune -  Bleu",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-VIBES-DUNE-BLEU-VERT",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": {
+                    "id": 61930150494548,
+                    "product_id": 9875952402772,
+                    "position": 3,
+                    "created_at": "2024-12-16T10:24:31+01:00",
+                    "updated_at": "2024-12-16T10:25:03+01:00",
+                    "alt": "my lubie coffret vibes et vibrations",
+                    "width": 2048,
+                    "height": 2048,
+                    "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubie0ct-164_1.jpg?v=1734341103",
+                    "variant_ids": [
+                        50618705609044
+                    ]
+                },
+                "available": true,
+                "price": "119.00",
+                "grams": 554,
+                "compare_at_price": null,
+                "position": 5,
+                "product_id": 9875952402772,
+                "created_at": "2024-10-28T11:14:43+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 61930150527316,
+                "created_at": "2024-12-16T10:24:31+01:00",
+                "position": 1,
+                "updated_at": "2024-12-16T10:25:03+01:00",
+                "product_id": 9875952402772,
+                "variant_ids": [
+                    50618705543508
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubie0ct-165_1.jpg?v=1734341103",
+                "width": 2048,
+                "height": 2048
+            },
+            {
+                "id": 61930150461780,
+                "created_at": "2024-12-16T10:24:31+01:00",
+                "position": 2,
+                "updated_at": "2024-12-16T10:25:03+01:00",
+                "product_id": 9875952402772,
+                "variant_ids": [
+                    50618705576276
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubie0ct-163_1.jpg?v=1734341103",
+                "width": 2048,
+                "height": 2048
+            },
+            {
+                "id": 61930150494548,
+                "created_at": "2024-12-16T10:24:31+01:00",
+                "position": 3,
+                "updated_at": "2024-12-16T10:25:03+01:00",
+                "product_id": 9875952402772,
+                "variant_ids": [
+                    50618705609044
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubie0ct-164_1.jpg?v=1734341103",
+                "width": 2048,
+                "height": 2048
+            },
+            {
+                "id": 52600256725332,
+                "created_at": "2023-11-22T11:49:08+01:00",
+                "position": 4,
+                "updated_at": "2024-12-16T11:18:27+01:00",
+                "product_id": 9875952402772,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/menottes-en-soie-my-lubie-vert-packshot.jpg?v=1734344307",
+                "width": 2000,
+                "height": 2000
+            },
+            {
+                "id": 52301549470036,
+                "created_at": "2023-10-30T11:54:39+01:00",
+                "position": 5,
+                "updated_at": "2024-12-16T10:26:33+01:00",
+                "product_id": 9875952402772,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/menottes-en-soie-demo-vert.jpg?v=1734341193",
+                "width": 2000,
+                "height": 2000
+            },
+            {
+                "id": 50703160115540,
+                "created_at": "2023-05-22T10:59:11+02:00",
+                "position": 6,
+                "updated_at": "2024-12-16T10:26:33+01:00",
+                "product_id": 9875952402772,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/4MyLubie-stimulateur-clirotidien-bien-etre-intime-sexuale-wellness-sexualite-sensualite-sex-accessoire-pulsation-clitoris-orgasme-plaisirsexeoral-vegan-francais-naturel-sexo-sensualit_9606de5c-c453-4b93-bae0-b57d27c5535b.jpg?v=1734341193",
+                "width": 2000,
+                "height": 2000
+            },
+            {
+                "id": 30973676716171,
+                "created_at": "2022-10-20T16:38:08+02:00",
+                "position": 7,
+                "updated_at": "2024-12-16T10:26:33+01:00",
+                "product_id": 9875952402772,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/MyLubieDuneaccesoirevibrantsexualitesexuelsexfaitenFrancemadeinFranceabased_eaugelintimelubhuileintimesexplorerbienetreintimeinnovantmoderneduneaccessoirevibrantyuk3.jpg?v=1734341193",
+                "width": 1800,
+                "height": 1800
+            },
+            {
+                "id": 28133625495691,
+                "created_at": "2021-05-04T09:26:17+02:00",
+                "position": 8,
+                "updated_at": "2024-12-16T10:26:33+01:00",
+                "product_id": 9875952402772,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/LUBRIFIANT_HOOVER.jpg?v=1734341193",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 30958223491211,
+                "created_at": "2022-10-18T17:08:49+02:00",
+                "position": 9,
+                "updated_at": "2024-12-16T10:26:33+01:00",
+                "product_id": 9875952402772,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/My-Lubie-stimulateur-clirotidien-bien-etre-intime-sexuale-wellness-sexualite-sensualite-sex-accessoire-pulsation-clitoris-orgasme-plaisirsexeoral-vegan-francais-naturel4.jpg?v=1734341193",
+                "width": 1366,
+                "height": 1366
+            },
+            {
+                "id": 30983876411531,
+                "created_at": "2022-10-21T17:10:58+02:00",
+                "position": 10,
+                "updated_at": "2024-12-16T10:26:33+01:00",
+                "product_id": 9875952402772,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/MyLubieDuneaccesoirevibrantsexualitesexuelsexfaitenFrancemadeinFranceabased_eaugelintimelubhuileintimesexplorerbienetreintimeinnovantmoderneduneaccessoirevibrantyuk_a8c94ea0-c578-40b7-a4ef-e1cddd697615.jpg?v=1734341193",
+                "width": 1600,
+                "height": 1600
+            },
+            {
+                "id": 30983876345995,
+                "created_at": "2022-10-21T17:10:58+02:00",
+                "position": 11,
+                "updated_at": "2024-12-16T10:26:33+01:00",
+                "product_id": 9875952402772,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/MyLubieDuneaccesoirevibrantsexualitesexuelsexfaitenFrancemadeinFranceabased_eaugelintimelubhuileintimesexplorerbienetreintimeinnovantmoderneduneaccessoirevibrantyuk.jpg?v=1734341193",
+                "width": 1600,
+                "height": 1600
+            },
+            {
+                "id": 63610669859156,
+                "created_at": "2025-01-28T18:07:33+01:00",
+                "position": 12,
+                "updated_at": "2025-01-28T18:07:37+01:00",
+                "product_id": 9875952402772,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/livraison-tres-discrete_-_Page_produit.jpg?v=1738084057",
+                "width": 3125,
+                "height": 3125
+            }
+        ],
+        "options": [
+            {
+                "name": "Accessoire",
+                "position": 1,
+                "values": [
+                    "Aura",
+                    "Dune - Sable",
+                    "Dune -  Bleu"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9881191973204,
+        "title": "Jeux de Nuit, le coffret",
+        "handle": "jeux-de-nuit-le-coffret-edition-limitee",
+        "body_html": "<p><meta charset=\"utf-8\"><strong>Quatre créations My Lubie, rassemblées pour leur complémentarité. <br></strong>Et pour vous prouver que votre sexualité n’a pas fini de vous surprendre. La preuve avec notre <a href=\"https://mylubie.com/products/le-jeu-my-lubie\">Jeu</a>, invitation à sexplorer seul.e, à deux ou à plusieurs, à poser des questions ou tester de nouvelles choses. Pour l’accompagner ? Des <a href=\"https://mylubie.com/products/les-menottes-en-soie-avec-anneaux-clipsables\">menottes en soie</a>, pour s’initier au BDSM en douceur, notre <a href=\"https://mylubie.com/products/huile-soin-massage-et-corps\">Huile de soin</a> et de massage et notre <a href=\"https://mylubie.com/products/le-lubrifiant-naturel\">Lubrifiant</a> fétiche, pour des câlins toujours plus fluides et agréables. <br>À (s’)offrir, pour aller plus loin dans son intimité.</p>\n<p><em>Plaisir d’offrir, joie de recevoir : ces produits sont livrés avec une <a href=\"https://mylubie.com/products/pochette-cadeau\">pochette cadeau</a> (déjà incluse dans votre coffret, il n'est pas nécessaire de l'ajouter au panier).</em></p>",
+        "published_at": "2024-11-06T06:46:16+01:00",
+        "created_at": "2024-10-29T16:54:29+01:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "My Lubie",
+        "product_type": "Coffret",
+        "tags": [
+            "-18.00€"
+        ],
+        "variants": [
+            {
+                "id": 50955681956180,
+                "title": "vert",
+                "option1": "vert",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-JEUX-DE-NUIT-VERT",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": {
+                    "id": 61802056253780,
+                    "product_id": 9881191973204,
+                    "position": 1,
+                    "created_at": "2024-12-13T17:26:11+01:00",
+                    "updated_at": "2024-12-16T10:03:33+01:00",
+                    "alt": "my lubie coffret jeu de nuit huile soin corps lubrifiant naturel à base d'eau texture fluide menottes en soie",
+                    "width": 2048,
+                    "height": 2048,
+                    "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubie0ct-172_1.jpg?v=1734339813",
+                    "variant_ids": [
+                        50955681956180
+                    ]
+                },
+                "available": true,
+                "price": "92.00",
+                "grams": 553,
+                "compare_at_price": null,
+                "position": 1,
+                "product_id": 9881191973204,
+                "created_at": "2024-12-13T17:22:07+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            },
+            {
+                "id": 50955681923412,
+                "title": "lilas",
+                "option1": "lilas",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-JEUX-DE-NUIT",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": {
+                    "id": 59568490316116,
+                    "product_id": 9881191973204,
+                    "position": 2,
+                    "created_at": "2024-10-29T16:53:04+01:00",
+                    "updated_at": "2024-12-16T10:03:33+01:00",
+                    "alt": "my lubie coffret jeu de nuit huile soin corps lubrifiant naturel à base d'eau texture fluide menottes en soie",
+                    "width": 2048,
+                    "height": 2048,
+                    "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubie0ct-172.jpg?v=1734339813",
+                    "variant_ids": [
+                        50955681923412
+                    ]
+                },
+                "available": false,
+                "price": "92.00",
+                "grams": 553,
+                "compare_at_price": null,
+                "position": 2,
+                "product_id": 9881191973204,
+                "created_at": "2024-12-13T17:22:07+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 61802056253780,
+                "created_at": "2024-12-13T17:26:11+01:00",
+                "position": 1,
+                "updated_at": "2024-12-16T10:03:33+01:00",
+                "product_id": 9881191973204,
+                "variant_ids": [
+                    50955681956180
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubie0ct-172_1.jpg?v=1734339813",
+                "width": 2048,
+                "height": 2048
+            },
+            {
+                "id": 59568490316116,
+                "created_at": "2024-10-29T16:53:04+01:00",
+                "position": 2,
+                "updated_at": "2024-12-16T10:03:33+01:00",
+                "product_id": 9881191973204,
+                "variant_ids": [
+                    50955681923412
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubie0ct-172.jpg?v=1734339813",
+                "width": 2048,
+                "height": 2048
+            },
+            {
+                "id": 52600256725332,
+                "created_at": "2023-11-22T11:49:08+01:00",
+                "position": 3,
+                "updated_at": "2024-12-16T11:18:27+01:00",
+                "product_id": 9881191973204,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/menottes-en-soie-my-lubie-vert-packshot.jpg?v=1734344307",
+                "width": 2000,
+                "height": 2000
+            },
+            {
+                "id": 52301549470036,
+                "created_at": "2023-10-30T11:54:39+01:00",
+                "position": 4,
+                "updated_at": "2024-12-16T10:26:33+01:00",
+                "product_id": 9881191973204,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/menottes-en-soie-demo-vert.jpg?v=1734341193",
+                "width": 2000,
+                "height": 2000
+            },
+            {
+                "id": 55027031048532,
+                "created_at": "2024-04-25T17:28:34+02:00",
+                "position": 5,
+                "updated_at": "2024-12-16T10:03:33+01:00",
+                "product_id": 9881191973204,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/le-jeu-my-lubie_4.jpg?v=1734339813",
+                "width": 4000,
+                "height": 3999
+            },
+            {
+                "id": 28325140758667,
+                "created_at": "2021-07-15T11:33:53+02:00",
+                "position": 6,
+                "updated_at": "2024-12-16T10:03:33+01:00",
+                "product_id": 9881191973204,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/mylubielubrifiantnaturelmadeinFrancevegan2.jpg?v=1734339813",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 30983748321419,
+                "created_at": "2022-10-21T16:45:08+02:00",
+                "position": 7,
+                "updated_at": "2024-12-20T12:50:49+01:00",
+                "product_id": 9881191973204,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/100_d_originenaturelleetvegan.sublimenourritetdetalendpourtoujoursplusdesensationsetdeplaisir.faitenfrance100100excellentuykanaturelcertifieebiohuilesoinmassageetcorp.jpg?v=1734695449",
+                "width": 1300,
+                "height": 1300
+            },
+            {
+                "id": 63610669859156,
+                "created_at": "2025-01-28T18:07:33+01:00",
+                "position": 8,
+                "updated_at": "2025-01-28T18:07:37+01:00",
+                "product_id": 9881191973204,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/livraison-tres-discrete_-_Page_produit.jpg?v=1738084057",
+                "width": 3125,
+                "height": 3125
+            }
+        ],
+        "options": [
+            {
+                "name": "colors",
+                "position": 1,
+                "values": [
+                    "vert",
+                    "lilas"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9881262260564,
+        "title": "Explorations, le coffret",
+        "handle": "explorations-le-coffret-edition-limitee",
+        "body_html": "<p><meta charset=\"utf-8\"><strong>Trois créations My Lubie, rassemblées pour leur complémentarité.</strong> <br>Ici, notre plug en silicone <a href=\"https://mylubie.com/products/aube-le-plug\">Aube</a> est livré avec notre <a href=\"https://mylubie.com/products/aube-lubrifiant-naturel-riche\">l</a><a href=\"https://mylubie.com/products/lubrifiant-naturel-riche\">ubrifiant à la texture riche</a> et nos <a href=\"https://mylubie.com/products/les-menottes-en-soie-avec-anneaux-clipsables\">menottes en soie</a>. Une invitation à l’exploration anale, adaptée à tous.tes. À (s’)offrir pour une découverte pas à pas, seul.e, à deux ou plus.</p>\n<p><em>Plaisir d’offrir, joie de recevoir : ces produits sont livrés avec une <a href=\"https://mylubie.com/products/pochette-cadeau\">pochette cadeau</a> (déjà incluse dans votre coffret, il n'est pas nécessaire de l'ajouter au panier).</em><b id=\"docs-internal-guid-e1cbd129-7fff-4edc-3e8d-19501c03b982\"><span><br></span></b></p>",
+        "published_at": "2024-11-06T06:46:11+01:00",
+        "created_at": "2024-10-29T17:32:44+01:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "My Lubie",
+        "product_type": "Coffret",
+        "tags": [
+            "-13.00€"
+        ],
+        "variants": [
+            {
+                "id": 50955793989972,
+                "title": "vert",
+                "option1": "vert",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-NOUVELLES-EXPLORATIONS-VERT",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": {
+                    "id": 61802265706836,
+                    "product_id": 9881262260564,
+                    "position": 1,
+                    "created_at": "2024-12-13T17:56:15+01:00",
+                    "updated_at": "2024-12-16T11:18:27+01:00",
+                    "alt": "my lubie coffret exploration plug aube menottes en soie lubrifiant naturel texture riche",
+                    "width": 2048,
+                    "height": 2048,
+                    "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubie0ct-166_2.jpg?v=1734344307",
+                    "variant_ids": [
+                        50955793989972
+                    ]
+                },
+                "available": true,
+                "price": "70.00",
+                "grams": 283,
+                "compare_at_price": null,
+                "position": 1,
+                "product_id": 9881262260564,
+                "created_at": "2024-12-13T18:06:14+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            },
+            {
+                "id": 50955793957204,
+                "title": "lilas",
+                "option1": "lilas",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-NOUVELLES-EXPLORATIONS",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": {
+                    "id": 59568892870996,
+                    "product_id": 9881262260564,
+                    "position": 2,
+                    "created_at": "2024-10-29T17:31:23+01:00",
+                    "updated_at": "2024-12-16T11:18:27+01:00",
+                    "alt": "coffret cadeau explorations my lubie plug aube menottes en soie lubrifiant naturel texture riche",
+                    "width": 2048,
+                    "height": 2048,
+                    "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubie0ct-166_1.jpg?v=1734344307",
+                    "variant_ids": [
+                        50955793957204
+                    ]
+                },
+                "available": false,
+                "price": "70.00",
+                "grams": 283,
+                "compare_at_price": null,
+                "position": 2,
+                "product_id": 9881262260564,
+                "created_at": "2024-12-13T18:06:14+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 61802265706836,
+                "created_at": "2024-12-13T17:56:15+01:00",
+                "position": 1,
+                "updated_at": "2024-12-16T11:18:27+01:00",
+                "product_id": 9881262260564,
+                "variant_ids": [
+                    50955793989972
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubie0ct-166_2.jpg?v=1734344307",
+                "width": 2048,
+                "height": 2048
+            },
+            {
+                "id": 59568892870996,
+                "created_at": "2024-10-29T17:31:23+01:00",
+                "position": 2,
+                "updated_at": "2024-12-16T11:18:27+01:00",
+                "product_id": 9881262260564,
+                "variant_ids": [
+                    50955793957204
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubie0ct-166_1.jpg?v=1734344307",
+                "width": 2048,
+                "height": 2048
+            },
+            {
+                "id": 52600256725332,
+                "created_at": "2023-11-22T11:49:08+01:00",
+                "position": 3,
+                "updated_at": "2024-12-16T11:18:27+01:00",
+                "product_id": 9881262260564,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/menottes-en-soie-my-lubie-vert-packshot.jpg?v=1734344307",
+                "width": 2000,
+                "height": 2000
+            },
+            {
+                "id": 59567741370708,
+                "created_at": "2024-10-29T15:48:51+01:00",
+                "position": 4,
+                "updated_at": "2024-12-16T11:18:27+01:00",
+                "product_id": 9881262260564,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubie0ct-50.jpg?v=1734344307",
+                "width": 1366,
+                "height": 1366
+            },
+            {
+                "id": 55962637664596,
+                "created_at": "2024-06-14T16:34:23+02:00",
+                "position": 5,
+                "updated_at": "2024-12-13T18:02:19+01:00",
+                "product_id": 9881262260564,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/plug-aube-packshot-boite.jpg?v=1734109339",
+                "width": 3000,
+                "height": 2999
+            },
+            {
+                "id": 59266648015188,
+                "created_at": "2024-10-17T17:53:54+02:00",
+                "position": 6,
+                "updated_at": "2024-12-13T18:02:19+01:00",
+                "product_id": 9881262260564,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/Lubrifiant-riche_1.jpg?v=1734109339",
+                "width": 4000,
+                "height": 4001
+            },
+            {
+                "id": 55962637500756,
+                "created_at": "2024-06-14T16:34:24+02:00",
+                "position": 7,
+                "updated_at": "2024-12-13T18:02:19+01:00",
+                "product_id": 9881262260564,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/plug-aube-lifestyle.jpg?v=1734109339",
+                "width": 3000,
+                "height": 3000
+            },
+            {
+                "id": 55908545266004,
+                "created_at": "2024-06-12T14:27:32+02:00",
+                "position": 8,
+                "updated_at": "2024-12-13T18:02:19+01:00",
+                "product_id": 9881262260564,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/lubrifiant-texture-riche-packshot-coule.jpg?v=1734109339",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 63610669859156,
+                "created_at": "2025-01-28T18:07:33+01:00",
+                "position": 9,
+                "updated_at": "2025-01-28T18:07:37+01:00",
+                "product_id": 9881262260564,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/livraison-tres-discrete_-_Page_produit.jpg?v=1738084057",
+                "width": 3125,
+                "height": 3125
+            }
+        ],
+        "options": [
+            {
+                "name": "colors",
+                "position": 1,
+                "values": [
+                    "vert",
+                    "lilas"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9879679271252,
+        "title": "Corps à corps, le coffret",
+        "handle": "corps-a-corps-le-coffret-edition-limitee",
+        "body_html": "<p><meta charset=\"utf-8\"><strong>Trois créations My Lubie, rassemblées pour leur complémentarité. </strong><br>Parce que parfois, tout ce qu’il manque pour un moment de connexion, c’est la bonne atmosphère… Notre bougie <a href=\"https://mylubie.com/products/bougie-osmose\">Osmose</a> est livrée avec notre <a href=\"https://mylubie.com/products/huile-soin-massage-et-corps\">Huile soin</a> et <a href=\"https://mylubie.com/products/huile-intime-au-cbd\">celle au CBD</a>, stimulante et relaxante. Le cadeau idéal à (s’)offrir pour lâcher prise, se masser, se toucher, retrouver le contact avec son corps et sa peau. En plus de créer une ambiance propice aux câlins, ces produits sont conçus en France, sans ingrédients controversés.</p>\n<p><em>Plaisir d’offrir, joie de recevoir : ces produits sont livrés avec une <a href=\"https://mylubie.com/products/pochette-cadeau\">pochette cadeau</a> (déjà incluse dans votre coffret, il n'est pas nécessaire de l'ajouter au panier).</em></p>",
+        "published_at": "2024-11-06T06:46:06+01:00",
+        "created_at": "2024-10-28T14:50:51+01:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "My Lubie",
+        "product_type": "Coffret",
+        "tags": [
+            "-14.00€"
+        ],
+        "variants": [
+            {
+                "id": 50619762311508,
+                "title": "Default Title",
+                "option1": "Default Title",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-COPS-A-CORPS",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": null,
+                "available": true,
+                "price": "74.00",
+                "grams": 544,
+                "compare_at_price": null,
+                "position": 2,
+                "product_id": 9879679271252,
+                "created_at": "2024-10-28T14:50:52+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 59567895511380,
+                "created_at": "2024-10-29T16:01:32+01:00",
+                "position": 1,
+                "updated_at": "2024-10-29T16:01:35+01:00",
+                "product_id": 9879679271252,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubie0ct-167.jpg?v=1730214095",
+                "width": 2048,
+                "height": 2048
+            },
+            {
+                "id": 30973567565963,
+                "created_at": "2022-10-20T16:23:19+02:00",
+                "position": 2,
+                "updated_at": "2023-06-30T09:44:41+02:00",
+                "product_id": 9879679271252,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/100_d_originenaturelleetvegan.Stimule_nourritetapaisepourtoujoursplusdesensationsetdeplaisir.faitenfrance100100excellentuykanaturelcertifieebiohuileintimeCBDCBDsexplo.jpg?v=1688111081",
+                "width": 1300,
+                "height": 1300
+            },
+            {
+                "id": 30983748321419,
+                "created_at": "2022-10-21T16:45:08+02:00",
+                "position": 3,
+                "updated_at": "2024-12-20T12:50:49+01:00",
+                "product_id": 9879679271252,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/100_d_originenaturelleetvegan.sublimenourritetdetalendpourtoujoursplusdesensationsetdeplaisir.faitenfrance100100excellentuykanaturelcertifieebiohuilesoinmassageetcorp.jpg?v=1734695449",
+                "width": 1300,
+                "height": 1300
+            },
+            {
+                "id": 31046525452427,
+                "created_at": "2022-10-27T14:22:02+02:00",
+                "position": 4,
+                "updated_at": "2022-10-27T14:22:04+02:00",
+                "product_id": 9879679271252,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/Bougie-osmose-my-lubie-sex-sexual-welness-intiminte-lubrifiant-naturel-vegan-fait-en-france-sexualite-3.jpg?v=1666873324",
+                "width": 1600,
+                "height": 1600
+            },
+            {
+                "id": 28361689792651,
+                "created_at": "2021-07-28T16:35:47+02:00",
+                "position": 5,
+                "updated_at": "2024-12-20T12:50:49+01:00",
+                "product_id": 9879679271252,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/HUILE_PHOTO_PRINCIPALE.jpg?v=1734695449",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 31052259524747,
+                "created_at": "2022-10-28T11:43:59+02:00",
+                "position": 6,
+                "updated_at": "2022-10-28T11:44:00+02:00",
+                "product_id": 9879679271252,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/Bougie-osmose-my-lubie-sex-sexual-welness-intiminte-lubrifiant-naturel-vegan-fait-en-france-sexualite-my-lubie.jpg?v=1666950240",
+                "width": 2200,
+                "height": 2200
+            },
+            {
+                "id": 63610669859156,
+                "created_at": "2025-01-28T18:07:33+01:00",
+                "position": 7,
+                "updated_at": "2025-01-28T18:07:37+01:00",
+                "product_id": 9879679271252,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/livraison-tres-discrete_-_Page_produit.jpg?v=1738084057",
+                "width": 3125,
+                "height": 3125
+            }
+        ],
+        "options": [
+            {
+                "name": "Title",
+                "position": 1,
+                "values": [
+                    "Default Title"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9746923651412,
+        "title": "Huile intime au CBD + Lubrifiant riche",
+        "handle": "huile-intime-au-cbd-lubrifiant-riche",
+        "body_html": "<p><span>Deux textures complémentaires pour des sensations nuancées… Et décuplées. Le 1er est notre nouveau lubrifiant texture riche, vegan et tellement agréable à utiliser. Le 2e est une huile sensorielle enrichie en CBD, qui fluidifie les rapports et intensifie le plaisir. Moins d’inconfort, plus de sensualité… Le nouveau duo clean et culte.</span></p>",
+        "published_at": "2024-09-17T15:56:39+02:00",
+        "created_at": "2024-09-05T11:06:37+02:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "My Lubie",
+        "product_type": "",
+        "tags": [
+            "-4.00€",
+            "MYLUBIEXTB0225"
+        ],
+        "variants": [
+            {
+                "id": 49824003424596,
+                "title": "Default Title",
+                "option1": "Default Title",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-HUILE-INTIME-LUBRICHE",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": null,
+                "available": true,
+                "price": "49.00",
+                "grams": 185,
+                "compare_at_price": null,
+                "position": 2,
+                "product_id": 9746923651412,
+                "created_at": "2024-09-05T11:06:39+02:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 59266717974868,
+                "created_at": "2024-10-17T17:59:39+02:00",
+                "position": 1,
+                "updated_at": "2024-10-17T17:59:41+02:00",
+                "product_id": 9746923651412,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/Lubrifants-riche-et-huile-intime.jpg?v=1729180781",
+                "width": 3000,
+                "height": 3000
+            },
+            {
+                "id": 29098130112651,
+                "created_at": "2022-01-25T22:22:20+01:00",
+                "position": 2,
+                "updated_at": "2022-01-25T22:22:21+01:00",
+                "product_id": 9746923651412,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/HUILE_HOOVER.jpg?v=1643145741",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 55962845020500,
+                "created_at": "2024-06-14T16:50:43+02:00",
+                "position": 3,
+                "updated_at": "2024-12-23T11:26:44+01:00",
+                "product_id": 9746923651412,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/lubrifiant-texture-riche-packshot-coule_1.jpg?v=1734949604",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 58144901333332,
+                "created_at": "2023-07-19T11:03:08+02:00",
+                "position": 4,
+                "updated_at": "2024-12-17T10:23:47+01:00",
+                "product_id": 9746923651412,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/100_d_originenaturelleetvegan.Stimule_nourritetapaisepourtoujoursplusdesensationsetdeplaisir.faitenfrance100100excellentuykanaturelcertifieebiohuileintimeCBDCBDsexplo_98fbb62f-5fe3-4363-ab45-37a02ea7bfa7.jpg?v=1734427427",
+                "width": 1300,
+                "height": 1300
+            },
+            {
+                "id": 63610669859156,
+                "created_at": "2025-01-28T18:07:33+01:00",
+                "position": 5,
+                "updated_at": "2025-01-28T18:07:37+01:00",
+                "product_id": 9746923651412,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/livraison-tres-discrete_-_Page_produit.jpg?v=1738084057",
+                "width": 3125,
+                "height": 3125
+            }
+        ],
+        "options": [
+            {
+                "name": "Title",
+                "position": 1,
+                "values": [
+                    "Default Title"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9747020710228,
+        "title": "Trio Gamme Lubrifiants",
+        "handle": "les-3-lubrifiants-naturels-made-in-france",
+        "body_html": "<p>Les lubrifiants de My Lubie, enfin réunis. 3 textures différentes pour tous vos usages.</p>\n<p><span>Le 1er est notre dernière nouveauté : le lubrifiant naturel avec une texture riche et un toucher velours. Le 2e est le lubrifiant de nos rêves, vegan, léger et tellement agréable à utiliser. Le 3e est une huile sensorielle enrichie en CBD, qui fluidifie les rapports et intensifie le plaisir. </span><span>Moins d’inconfort, plus de sensualité.</span></p>",
+        "published_at": "2024-09-17T15:49:28+02:00",
+        "created_at": "2024-09-05T12:10:21+02:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "My Lubie",
+        "product_type": "",
+        "tags": [
+            "-5.00€"
+        ],
+        "variants": [
+            {
+                "id": 49824672743764,
+                "title": "Default Title",
+                "option1": "Default Title",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-HUILE-INTIME-2LUB",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": null,
+                "available": true,
+                "price": "63.00",
+                "grams": 274,
+                "compare_at_price": null,
+                "position": 2,
+                "product_id": 9747020710228,
+                "created_at": "2024-09-05T12:10:23+02:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 59266611642708,
+                "created_at": "2024-10-17T17:50:07+02:00",
+                "position": 1,
+                "updated_at": "2024-10-17T17:50:10+02:00",
+                "product_id": 9747020710228,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/Trois-lubrifiants_1.jpg?v=1729180210",
+                "width": 4000,
+                "height": 4000
+            },
+            {
+                "id": 58146136588628,
+                "created_at": "2024-09-05T11:53:35+02:00",
+                "position": 2,
+                "updated_at": "2024-09-05T11:53:38+02:00",
+                "product_id": 9747020710228,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/les-lubrifiants-my-lubie.jpg?v=1725530018",
+                "width": 1500,
+                "height": 1500
+            },
+            {
+                "id": 55962845020500,
+                "created_at": "2024-06-14T16:50:43+02:00",
+                "position": 3,
+                "updated_at": "2024-12-23T11:26:44+01:00",
+                "product_id": 9747020710228,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/lubrifiant-texture-riche-packshot-coule_1.jpg?v=1734949604",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 58146136654164,
+                "created_at": "2023-07-18T15:55:06+02:00",
+                "position": 4,
+                "updated_at": "2023-07-18T15:55:09+02:00",
+                "product_id": 9747020710228,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MYLUBIE_05_0148_2_1_c704f960-dd99-4a37-a8b8-a99d3be4d769.jpg?v=1689688509",
+                "width": 2465,
+                "height": 2466
+            },
+            {
+                "id": 58146136686932,
+                "created_at": "2022-07-20T15:13:18+02:00",
+                "position": 5,
+                "updated_at": "2025-01-14T11:41:23+01:00",
+                "product_id": 9747020710228,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/HUILE_PAGE_PRODUIT_3_x610_5644e92c-66cd-45bc-b843-ba0cab7dcb89.jpg?v=1736851283",
+                "width": 610,
+                "height": 610
+            },
+            {
+                "id": 63610669859156,
+                "created_at": "2025-01-28T18:07:33+01:00",
+                "position": 6,
+                "updated_at": "2025-01-28T18:07:37+01:00",
+                "product_id": 9747020710228,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/livraison-tres-discrete_-_Page_produit.jpg?v=1738084057",
+                "width": 3125,
+                "height": 3125
+            }
+        ],
+        "options": [
+            {
+                "name": "Title",
+                "position": 1,
+                "values": [
+                    "Default Title"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9747120357716,
+        "title": "Le trio de lubrifiants riches",
+        "handle": "le-trio-de-lubrifiants-riches",
+        "body_html": "<p>Trois lubrifiants de 75ml au toucher velours ultra-confortable, plus riches que notre version classique. Leur formule naturelle apaisante prend soin des muqueuses grâce à leurs actifs, notamment lors des pratiques anales. Idéal pour sexplorer ou pour utiliser avec ses sextoys, à son rythme, en douceur.</p>\n<p>-rm-</p>\n<p>Le lubrifiant riche ne coule pas, ne sèche pas… Et prend soin de votre intimité avec une composition naturelle. Nouveau - et déjà indispensable.</p>",
+        "published_at": "2024-09-17T15:42:04+02:00",
+        "created_at": "2024-09-05T14:41:56+02:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "My Lubie",
+        "product_type": "",
+        "tags": [
+            "-5.00€",
+            "MYLUBIEXTB0225"
+        ],
+        "variants": [
+            {
+                "id": 49825152827732,
+                "title": "Default Title",
+                "option1": "Default Title",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-TRIO-LUB-RICHE",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": null,
+                "available": true,
+                "price": "40.00",
+                "grams": 255,
+                "compare_at_price": null,
+                "position": 2,
+                "product_id": 9747120357716,
+                "created_at": "2024-09-05T14:41:57+02:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 59266585297236,
+                "created_at": "2024-10-17T17:46:12+02:00",
+                "position": 1,
+                "updated_at": "2024-10-17T17:46:16+02:00",
+                "product_id": 9747120357716,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/Trio-Lubrifiant-riche_1.jpg?v=1729179976",
+                "width": 4000,
+                "height": 4001
+            },
+            {
+                "id": 55962845020500,
+                "created_at": "2024-06-14T16:50:43+02:00",
+                "position": 2,
+                "updated_at": "2024-12-23T11:26:44+01:00",
+                "product_id": 9747120357716,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/lubrifiant-texture-riche-packshot-coule_1.jpg?v=1734949604",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 55908545167700,
+                "created_at": "2024-06-12T14:27:32+02:00",
+                "position": 3,
+                "updated_at": "2024-06-12T14:27:35+02:00",
+                "product_id": 9747120357716,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/lubrifiant-texture-riche-main.jpg?v=1718195255",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 55908545134932,
+                "created_at": "2024-06-12T14:27:32+02:00",
+                "position": 4,
+                "updated_at": "2024-06-12T14:27:35+02:00",
+                "product_id": 9747120357716,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/lubrifiant-texture-riche-main-dos.jpg?v=1718195255",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 55963835859284,
+                "created_at": "2024-06-12T14:56:25+02:00",
+                "position": 5,
+                "updated_at": "2024-06-12T14:56:29+02:00",
+                "product_id": 9747120357716,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/lubrifiant-texture-riche-texture-zoom.jpg?v=1718196989",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 63610669859156,
+                "created_at": "2025-01-28T18:07:33+01:00",
+                "position": 6,
+                "updated_at": "2025-01-28T18:07:37+01:00",
+                "product_id": 9747120357716,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/livraison-tres-discrete_-_Page_produit.jpg?v=1738084057",
+                "width": 3125,
+                "height": 3125
+            }
+        ],
+        "options": [
+            {
+                "name": "Title",
+                "position": 1,
+                "values": [
+                    "Default Title"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9605366514004,
+        "title": "1 pack de lingettes intimes rafraîchissantes",
+        "handle": "1-pack-de-lingettes-intimes-rafraichissantes",
+        "body_html": "<p><span style=\"font-weight: 400;\">Tellement, tellement agréables et pratiques : des lingettes toutes douces pour s’essuyer, se rafraîchir, apaiser ses parties intimes avant ou après un câlin, ou à tout moment de la journée.</span></p>\n<p>Elles sont en celluloses (et donc jetables dans les toilettes) imbibées d’une lotion douce et naturelle. Aloe Vera, Fleur d’Oranger et Canneberge pour une composition naturelle à 99,6%, pour respecter muqueuses et peaux sensibles.</p>\n<!---->",
+        "published_at": "2024-07-02T13:54:36+02:00",
+        "created_at": "2024-07-02T13:45:24+02:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "Shadow",
+        "product_type": "",
+        "tags": [
+            "NOREVIEW"
+        ],
+        "variants": [
+            {
+                "id": 49310069424468,
+                "title": "Default Title",
+                "option1": "Default Title",
+                "option2": null,
+                "option3": null,
+                "sku": "MYLU-LINGETTE-14",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": null,
+                "available": true,
+                "price": "6.00",
+                "grams": 66,
+                "compare_at_price": null,
+                "position": 2,
+                "product_id": 9605366514004,
+                "created_at": "2024-07-02T13:45:25+02:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 56341590901076,
+                "created_at": "2024-07-02T13:44:04+02:00",
+                "position": 1,
+                "updated_at": "2025-02-06T15:58:12+01:00",
+                "product_id": 9605366514004,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubieLingettesnaturellesveganfaitenfrancemadeinfranceabased_eaugelintimelubehuileintimesexplorerbienetreintimeinnovantmoderneduneaccessoirevibrant.jpg?v=1738853892",
+                "width": 1200,
+                "height": 1200
+            }
+        ],
+        "options": [
+            {
+                "name": "Title",
+                "position": 1,
+                "values": [
+                    "Default Title"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9605348294996,
+        "title": "Lubrifiant naturel fluide 20ml",
+        "handle": "lubrifiant-naturel-fluide-20ml",
+        "body_html": "<p>Il a tout ce qu’on attendait du <a href=\"https://mylubie.com/collections/lubrifiant\" target=\"_blank\">lubrifiant</a> parfait : une texture agréable, qui hydrate, assez confortable pour accompagner toutes vos envies et décupler vos sensations, assez légère pour se faire oublier quand il le faut. Et surtout, une composition irréprochable, naturelle et à base d’eau, enrichie en vitamine E, calendula et algue rouge. Une seule certitude : avec lui, il y a un avant et un après.</p>\n<!---->",
+        "published_at": "2024-07-02T13:28:07+02:00",
+        "created_at": "2024-07-02T13:24:00+02:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "Shadow",
+        "product_type": "",
+        "tags": [
+            "NOREVIEW"
+        ],
+        "variants": [
+            {
+                "id": 49309988651348,
+                "title": "Default Title",
+                "option1": "Default Title",
+                "option2": null,
+                "option3": null,
+                "sku": "MYLU-LUBEAU-20ML",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": null,
+                "available": true,
+                "price": "7.00",
+                "grams": 37,
+                "compare_at_price": null,
+                "position": 2,
+                "product_id": 9605348294996,
+                "created_at": "2024-07-02T13:24:01+02:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 62699662082388,
+                "created_at": "2025-01-08T09:49:16+01:00",
+                "position": 1,
+                "updated_at": "2025-01-08T09:49:18+01:00",
+                "product_id": 9605348294996,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/Lubrifiant-20ml-offert_1_ae85443e-5c76-4575-95bf-f9680bdd7e96.jpg?v=1736326158",
+                "width": 2000,
+                "height": 2000
+            }
+        ],
+        "options": [
+            {
+                "name": "Title",
+                "position": 1,
+                "values": [
+                    "Default Title"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9597835247956,
+        "title": "Duo d'échantillon lubrifiant - Fluide et Riche",
+        "handle": "duo-dechantillon-lubrifiant-fluide-et-riche",
+        "body_html": "<p>Découvrez nos deux lubrifiants naturels en échantillon : </p>\n<ul>\n<li>Le lubrifiant naturel texture fluide</li>\n<li>Le lubrifiant naturel texture riche</li>\n</ul>\n<!---->",
+        "published_at": "2024-07-02T12:36:00+02:00",
+        "created_at": "2024-06-28T12:34:16+02:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "Shadow",
+        "product_type": "Lubrifiant",
+        "tags": [
+            "NOREVIEW"
+        ],
+        "variants": [
+            {
+                "id": 49283880714580,
+                "title": "Default Title",
+                "option1": "Default Title",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-ECHANTILLON-LUB-CLASSIQUE-RICHE",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": null,
+                "available": true,
+                "price": "0.00",
+                "grams": 37,
+                "compare_at_price": null,
+                "position": 2,
+                "product_id": 9597835247956,
+                "created_at": "2024-06-28T12:34:17+02:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 61796291641684,
+                "created_at": "2024-12-13T10:50:48+01:00",
+                "position": 1,
+                "updated_at": "2024-12-13T10:50:51+01:00",
+                "product_id": 9597835247956,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/Echantillon-de-lubrifiant-riche-et-fluide-offerts_bd5ee383-046c-4cd4-897a-e64c6454b2ee.jpg?v=1734083451",
+                "width": 2000,
+                "height": 2000
+            }
+        ],
+        "options": [
+            {
+                "name": "Title",
+                "position": 1,
+                "values": [
+                    "Default Title"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9236024197460,
+        "title": "Lubrifiant naturel riche",
+        "handle": "lubrifiant-naturel-riche",
+        "body_html": "<p><meta charset=\"utf-8\">Un lubrifiant de 75ml au toucher velours ultra-confortable, plus riche que notre version classique. Sa formule naturelle apaisante prend soin des muqueuses grâce à ses actifs, notamment lors des pratiques anales. Idéal pour sexplorer ou pour utiliser avec ses sextoys, à son rythme, en douceur.</p>\n<p>-rm-</p>\n<p>Il ne coule pas, ne sèche pas… Et prend soin de votre intimité avec une composition naturelle. Nouveau - et déjà indispensable.</p>\n<!---->",
+        "published_at": "2024-06-25T07:26:02+02:00",
+        "created_at": "2024-06-11T19:34:14+02:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "My Lubie",
+        "product_type": "Lubrifiant",
+        "tags": [
+            "MYLUBIEXTB0225"
+        ],
+        "variants": [
+            {
+                "id": 48317754081620,
+                "title": "Default Title",
+                "option1": "Default Title",
+                "option2": null,
+                "option3": null,
+                "sku": "MYLU-LUBEAU-RICHE-75ML",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": null,
+                "available": true,
+                "price": "15.00",
+                "grams": 85,
+                "compare_at_price": null,
+                "position": 1,
+                "product_id": 9236024197460,
+                "created_at": "2024-06-11T19:34:16+02:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 59266648015188,
+                "created_at": "2024-10-17T17:53:54+02:00",
+                "position": 1,
+                "updated_at": "2024-12-13T18:02:19+01:00",
+                "product_id": 9236024197460,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/Lubrifiant-riche_1.jpg?v=1734109339",
+                "width": 4000,
+                "height": 4001
+            },
+            {
+                "id": 55908545266004,
+                "created_at": "2024-06-12T14:27:32+02:00",
+                "position": 2,
+                "updated_at": "2024-12-13T18:02:19+01:00",
+                "product_id": 9236024197460,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/lubrifiant-texture-riche-packshot-coule.jpg?v=1734109339",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 55908545167700,
+                "created_at": "2024-06-12T14:27:32+02:00",
+                "position": 3,
+                "updated_at": "2024-06-12T14:27:35+02:00",
+                "product_id": 9236024197460,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/lubrifiant-texture-riche-main.jpg?v=1718195255",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 55908545134932,
+                "created_at": "2024-06-12T14:27:32+02:00",
+                "position": 4,
+                "updated_at": "2024-06-12T14:27:35+02:00",
+                "product_id": 9236024197460,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/lubrifiant-texture-riche-main-dos.jpg?v=1718195255",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 55963835859284,
+                "created_at": "2024-06-12T14:56:25+02:00",
+                "position": 5,
+                "updated_at": "2024-06-12T14:56:29+02:00",
+                "product_id": 9236024197460,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/lubrifiant-texture-riche-texture-zoom.jpg?v=1718196989",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 63610669859156,
+                "created_at": "2025-01-28T18:07:33+01:00",
+                "position": 6,
+                "updated_at": "2025-01-28T18:07:37+01:00",
+                "product_id": 9236024197460,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/livraison-tres-discrete_-_Page_produit.jpg?v=1738084057",
+                "width": 3125,
+                "height": 3125
+            }
+        ],
+        "options": [
+            {
+                "name": "Title",
+                "position": 1,
+                "values": [
+                    "Default Title"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9553102700884,
+        "title": "Duo de lubrifiants naturels",
+        "handle": "duo-de-lubrifiants-naturels-fluide-riche",
+        "body_html": "<p><meta charset=\"utf-8\">Deux salles, deux ambiances. Ou plutôt : deux lubrifiants pour s’adapter à tous les usages et toutes les envies.</p>\n<p>-rm-</p>\n<p>Le premier est notre grand classique : une texture<strong> fluide</strong>, agréable, qui hydrate, assez confortable pour accompagner toutes vos envies et décupler vos sensations, assez légère pour se faire oublier quand il le faut. <br>Le deuxième a un toucher velours ultra-confortable, plus <strong>riche</strong>. Sa formule naturelle apaisante prend soin des muqueuses grâce à ses actifs, notamment lors des pratiques anales.</p>\n<!---->",
+        "published_at": "2024-06-25T07:25:57+02:00",
+        "created_at": "2024-06-12T19:12:57+02:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "My Lubie",
+        "product_type": "Lubrifiant",
+        "tags": [
+            "-2.00€",
+            "MYLUBIEXTB0225"
+        ],
+        "variants": [
+            {
+                "id": 49170409947476,
+                "title": "Default Title",
+                "option1": "Default Title",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-LUBRIFIANT-CLASSIQUE-RICHE",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": null,
+                "available": true,
+                "price": "28.00",
+                "grams": 174,
+                "compare_at_price": null,
+                "position": 1,
+                "product_id": 9553102700884,
+                "created_at": "2024-06-12T19:12:59+02:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 59266690842964,
+                "created_at": "2024-10-17T17:55:52+02:00",
+                "position": 1,
+                "updated_at": "2024-10-17T17:55:56+02:00",
+                "product_id": 9553102700884,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/Lubrifants-riche-et-Lubrifiant-fluide.jpg?v=1729180556",
+                "width": 4000,
+                "height": 4000
+            },
+            {
+                "id": 55962845118804,
+                "created_at": "2024-06-14T16:50:43+02:00",
+                "position": 2,
+                "updated_at": "2024-12-20T12:50:49+01:00",
+                "product_id": 9553102700884,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/duo-lubrifiant-riche-fluide_1.jpg?v=1734695449",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 55908545167700,
+                "created_at": "2024-06-12T14:27:32+02:00",
+                "position": 3,
+                "updated_at": "2024-06-12T14:27:35+02:00",
+                "product_id": 9553102700884,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/lubrifiant-texture-riche-main.jpg?v=1718195255",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 55962860683604,
+                "created_at": "2024-06-14T16:51:43+02:00",
+                "position": 4,
+                "updated_at": "2024-06-14T16:51:45+02:00",
+                "product_id": 9553102700884,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/mylubielubrifiantnaturelmadeinFrancevegan4.jpg?v=1718376705",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 55962844987732,
+                "created_at": "2024-06-14T16:50:43+02:00",
+                "position": 5,
+                "updated_at": "2024-12-23T11:26:44+01:00",
+                "product_id": 9553102700884,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/duo-lubrifiant-riche-fluide-texture_1.jpg?v=1734949604",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 55962845086036,
+                "created_at": "2024-06-14T16:50:43+02:00",
+                "position": 6,
+                "updated_at": "2024-12-23T11:26:44+01:00",
+                "product_id": 9553102700884,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/lubrifiant-texture-riche-packshot-crop_1.jpg?v=1734949604",
+                "width": 895,
+                "height": 895
+            },
+            {
+                "id": 55962844954964,
+                "created_at": "2024-06-14T16:50:43+02:00",
+                "position": 7,
+                "updated_at": "2024-12-23T11:26:44+01:00",
+                "product_id": 9553102700884,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/MyLubieLubrifiantnaturelveganmadeinFranceabased_eaugelintimepersonallubricantwaterbasednatural4_1.jpg?v=1734949604",
+                "width": 1500,
+                "height": 1500
+            },
+            {
+                "id": 55962845020500,
+                "created_at": "2024-06-14T16:50:43+02:00",
+                "position": 8,
+                "updated_at": "2024-12-23T11:26:44+01:00",
+                "product_id": 9553102700884,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/lubrifiant-texture-riche-packshot-coule_1.jpg?v=1734949604",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 55962860650836,
+                "created_at": "2024-06-14T16:51:43+02:00",
+                "position": 9,
+                "updated_at": "2025-01-14T11:31:33+01:00",
+                "product_id": 9553102700884,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/mylubielubrifiantnaturelmadeinFrancevegan1.jpg?v=1736850693",
+                "width": 2303,
+                "height": 2302
+            },
+            {
+                "id": 63610669859156,
+                "created_at": "2025-01-28T18:07:33+01:00",
+                "position": 10,
+                "updated_at": "2025-01-28T18:07:37+01:00",
+                "product_id": 9553102700884,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/livraison-tres-discrete_-_Page_produit.jpg?v=1738084057",
+                "width": 3125,
+                "height": 3125
+            }
+        ],
+        "options": [
+            {
+                "name": "Title",
+                "position": 1,
+                "values": [
+                    "Default Title"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9235140510036,
+        "title": "Aube, le plug français",
+        "handle": "aube-le-plug",
+        "body_html": "<p><meta charset=\"utf-8\">La version My Lubie du plug : des formes rondes et une matière douce, pour devenir l’allié de vos explorations anales.</p>\n<p>-rm-</p>\n<p>Ses avantages ? Deux niveaux d'insertion pour une progression facile, au rythme de chacun.e. Une forme organique pour des sensations très wow. Un silicone de grade médical 100% sécurisé, biocompatible. Et une ventouse, pour pouvoir l’utiliser en solo ou sans les mains. Confort, sensations, plaisir : à vous de jouer.</p>\n<!---->",
+        "published_at": "2024-06-25T07:25:47+02:00",
+        "created_at": "2024-06-11T15:36:47+02:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "My Lubie",
+        "product_type": "Vibromasseur",
+        "tags": [
+            "MYLUBIEXTB0225"
+        ],
+        "variants": [
+            {
+                "id": 48316432023892,
+                "title": "Default Title",
+                "option1": "Default Title",
+                "option2": null,
+                "option3": null,
+                "sku": "MYLU-AUBE-ORANGE-T1",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": null,
+                "available": true,
+                "price": "28.00",
+                "grams": 60,
+                "compare_at_price": null,
+                "position": 1,
+                "product_id": 9235140510036,
+                "created_at": "2024-06-11T15:36:49+02:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 55962637467988,
+                "created_at": "2024-06-14T16:34:23+02:00",
+                "position": 1,
+                "updated_at": "2024-06-14T16:34:26+02:00",
+                "product_id": 9235140510036,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/packshot-plug-aube-main.jpg?v=1718375666",
+                "width": 3000,
+                "height": 3000
+            },
+            {
+                "id": 55962637664596,
+                "created_at": "2024-06-14T16:34:23+02:00",
+                "position": 2,
+                "updated_at": "2024-12-13T18:02:19+01:00",
+                "product_id": 9235140510036,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/plug-aube-packshot-boite.jpg?v=1734109339",
+                "width": 3000,
+                "height": 2999
+            },
+            {
+                "id": 55962637500756,
+                "created_at": "2024-06-14T16:34:24+02:00",
+                "position": 3,
+                "updated_at": "2024-12-13T18:02:19+01:00",
+                "product_id": 9235140510036,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/plug-aube-lifestyle.jpg?v=1734109339",
+                "width": 3000,
+                "height": 3000
+            },
+            {
+                "id": 55962637369684,
+                "created_at": "2024-06-14T16:34:23+02:00",
+                "position": 4,
+                "updated_at": "2024-06-14T16:34:26+02:00",
+                "product_id": 9235140510036,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/aube-packshot-zoom-lubrifiant.jpg?v=1718375666",
+                "width": 3000,
+                "height": 3000
+            },
+            {
+                "id": 56028961243476,
+                "created_at": "2024-06-17T14:26:48+02:00",
+                "position": 5,
+                "updated_at": "2024-06-17T14:26:50+02:00",
+                "product_id": 9235140510036,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/2G2A3821.jpg?v=1718627210",
+                "width": 3000,
+                "height": 3000
+            },
+            {
+                "id": 63610669859156,
+                "created_at": "2025-01-28T18:07:33+01:00",
+                "position": 6,
+                "updated_at": "2025-01-28T18:07:37+01:00",
+                "product_id": 9235140510036,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/livraison-tres-discrete_-_Page_produit.jpg?v=1738084057",
+                "width": 3125,
+                "height": 3125
+            }
+        ],
+        "options": [
+            {
+                "name": "Title",
+                "position": 1,
+                "values": [
+                    "Default Title"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9238493430100,
+        "title": "Aube + Lubrifiant riche",
+        "handle": "aube-lubrifiant-naturel-riche",
+        "body_html": "<p><meta charset=\"utf-8\">Le duo sensationnel : un plug version My Lubie et un lubrifiant à la texture riche.</p>\n<p>-rm-</p>\n<p>- Aube a des formes rondes et une matière douce, pour devenir l’allié de vos explorations anales. Ses avantages ? Deux niveaux d'insertion pour une progression facile. Une forme organique pour des sensations très wow. Un silicone de grade médical. Et une ventouse, pour pouvoir l’utiliser en solo ou sans les mains. Confort, sensations, plaisir : à vous de jouer. <br>- Le lubrifiant a un toucher velours ultra-confortable, plus riche que notre version classique. Sa formule naturelle apaisante prend soin des muqueuses grâce à ses actifs, notamment lors des pratiques anales.</p>\n<!---->",
+        "published_at": "2024-06-25T07:24:08+02:00",
+        "created_at": "2024-06-12T16:36:51+02:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "My Lubie",
+        "product_type": "Coffret",
+        "tags": [
+            "-3.00€",
+            "MYLUBIEXTB0225"
+        ],
+        "variants": [
+            {
+                "id": 48323613622612,
+                "title": "Default Title",
+                "option1": "Default Title",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-AUBE-LUBRIFIANT-RICHE",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": null,
+                "available": true,
+                "price": "40.00",
+                "grams": 145,
+                "compare_at_price": null,
+                "position": 1,
+                "product_id": 9238493430100,
+                "created_at": "2024-06-12T16:36:53+02:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 59266705424724,
+                "created_at": "2024-10-17T17:57:25+02:00",
+                "position": 1,
+                "updated_at": "2024-10-17T17:57:28+02:00",
+                "product_id": 9238493430100,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/Lubrifiant-riche-et-aube.jpg?v=1729180648",
+                "width": 3000,
+                "height": 3000
+            },
+            {
+                "id": 55962754810196,
+                "created_at": "2024-06-14T16:43:19+02:00",
+                "position": 2,
+                "updated_at": "2024-06-14T16:43:22+02:00",
+                "product_id": 9238493430100,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/aube-lubrifiant-riche-lifestyle.jpg?v=1718376202",
+                "width": 3000,
+                "height": 3000
+            },
+            {
+                "id": 55962754842964,
+                "created_at": "2024-06-14T16:43:19+02:00",
+                "position": 3,
+                "updated_at": "2024-06-14T16:43:22+02:00",
+                "product_id": 9238493430100,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/aube-lubrifiant-riche-naturel-texture.jpg?v=1718376202",
+                "width": 3000,
+                "height": 3000
+            },
+            {
+                "id": 55908545167700,
+                "created_at": "2024-06-12T14:27:32+02:00",
+                "position": 4,
+                "updated_at": "2024-06-12T14:27:35+02:00",
+                "product_id": 9238493430100,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/lubrifiant-texture-riche-main.jpg?v=1718195255",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 55963835859284,
+                "created_at": "2024-06-12T14:56:25+02:00",
+                "position": 5,
+                "updated_at": "2024-06-12T14:56:29+02:00",
+                "product_id": 9238493430100,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/lubrifiant-texture-riche-texture-zoom.jpg?v=1718196989",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 55962637664596,
+                "created_at": "2024-06-14T16:34:23+02:00",
+                "position": 6,
+                "updated_at": "2024-12-13T18:02:19+01:00",
+                "product_id": 9238493430100,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/plug-aube-packshot-boite.jpg?v=1734109339",
+                "width": 3000,
+                "height": 2999
+            },
+            {
+                "id": 63610669859156,
+                "created_at": "2025-01-28T18:07:33+01:00",
+                "position": 7,
+                "updated_at": "2025-01-28T18:07:37+01:00",
+                "product_id": 9238493430100,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/livraison-tres-discrete_-_Page_produit.jpg?v=1738084057",
+                "width": 3125,
+                "height": 3125
+            }
+        ],
+        "options": [
+            {
+                "name": "Title",
+                "position": 1,
+                "values": [
+                    "Default Title"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9224981545300,
+        "title": "Échantillon lubrifiant fluide",
+        "handle": "echantillon-de-lubrifiant-naturel",
+        "body_html": "<p>Il a tout ce qu’on attendait du <a href=\"https://mylubie.com/collections/lubrifiant\" target=\"_blank\">lubrifiant</a> parfait : une texture agréable, qui hydrate, assez confortable pour accompagner toutes vos envies et décupler vos sensations, assez légère pour se faire oublier quand il le faut. Et surtout, une composition irréprochable, naturelle et à base d’eau, enrichie en vitamine E, calendula et algue rouge. Une seule certitude : avec lui, il y a un avant et un après. </p>\n<!---->",
+        "published_at": "2024-06-06T15:25:24+02:00",
+        "created_at": "2024-06-06T15:13:48+02:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "Shadow",
+        "product_type": "Lubrifiant",
+        "tags": [],
+        "variants": [
+            {
+                "id": 48289315684692,
+                "title": "Default Title",
+                "option1": "Default Title",
+                "option2": null,
+                "option3": null,
+                "sku": "MYLU-LUBEAU-2ML",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": null,
+                "available": true,
+                "price": "0.00",
+                "grams": 37,
+                "compare_at_price": null,
+                "position": 2,
+                "product_id": 9224981545300,
+                "created_at": "2024-06-06T15:13:49+02:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 55799419961684,
+                "created_at": "2024-06-06T15:24:10+02:00",
+                "position": 1,
+                "updated_at": "2024-06-06T15:24:12+02:00",
+                "product_id": 9224981545300,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/lubrifiant-echantillon-page-produit.jpg?v=1717680252",
+                "width": 1080,
+                "height": 1080
+            }
+        ],
+        "options": [
+            {
+                "name": "Title",
+                "position": 1,
+                "values": [
+                    "Default Title"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7061070217355,
+        "title": "Boîte de 3 préservatifs",
+        "handle": "boite-de-3-preservatifs",
+        "body_html": "<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Une protection indispensable contre les MST, IST ou grossesses non désirées… Mais qui sait se faire oublier. Pour développer nos préservatifs ultra-fins, il nous fallait de la fiabilité, zéro ingrédient controversé, du latex durable et aucune odeur désagréable. La voici : une boîte de 12 préservatifs, fabriqués par une usine spécialisée, à partir de latex naturel équitable labélisé <span data-token-index=\"0\" class=\"notion-enable-hover\" data-reactroot=\"\" data-mce-fragment=\"1\">RRI (Regenerative Rubber Initiative)</span>. </span></p>\n<p>-rm-</p>\n<p>Chaque préservatif est testé électroniquement pour une protection optimale* et répond aux normes européennes les plus strictes. On a pensé à tout, pour que vous n’ayez plus qu’à profiter.</p>\n<p data-mce-fragment=\"1\"><i data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">*On en profite pour vous dire que la 1ère cause de craquage de préservatif est un manque de lubrification : utilisez-les avec notre lubrifiant naturel à base d’eau pour plus de confort et de plaisir.</span></i></p>",
+        "published_at": "2024-06-03T12:13:05+02:00",
+        "created_at": "2022-12-19T14:34:18+01:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "Shadow",
+        "product_type": "Préservatifs",
+        "tags": [
+            "tag-equitable"
+        ],
+        "variants": [
+            {
+                "id": 41140557283467,
+                "title": "Default Title",
+                "option1": "Default Title",
+                "option2": null,
+                "option3": null,
+                "sku": "MYLU-3CONDOMS-THIN",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": null,
+                "available": true,
+                "price": "4.00",
+                "grams": 14,
+                "compare_at_price": null,
+                "position": 1,
+                "product_id": 7061070217355,
+                "created_at": "2022-12-19T14:34:18+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 31476020576395,
+                "created_at": "2022-12-19T14:43:34+01:00",
+                "position": 1,
+                "updated_at": "2022-12-19T14:43:36+01:00",
+                "product_id": 7061070217355,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/preservatifs-utra-fin-my-lubie-bien-etre-intime-sexualite-senusalite-made-in-france-vegan-yuka.jpg?v=1671457416",
+                "width": 1500,
+                "height": 1500
+            },
+            {
+                "id": 31476060192907,
+                "created_at": "2022-12-19T14:52:51+01:00",
+                "position": 2,
+                "updated_at": "2022-12-19T14:52:52+01:00",
+                "product_id": 7061070217355,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/MYLUBIEPRESERVATIFSLATEXNATURELEQUITABLECONDOMSLUBRIFIANTLUBRICANTMyLubieLubrifiantnaturelveganfaitenFrancemadeinFranceabased_eaugelintimelubhuileintimesexplorerbienetreintimein.jpg?v=1671457972",
+                "width": 1365,
+                "height": 1365
+            },
+            {
+                "id": 31476060946571,
+                "created_at": "2022-12-19T14:52:59+01:00",
+                "position": 3,
+                "updated_at": "2022-12-19T14:53:01+01:00",
+                "product_id": 7061070217355,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/MYLUBIEPRESERVATIFSLATEXNATURELEQUITABLECONDOMSLUBRIFIANTLUBRICANTMyLubieLubrifiantnaturelveganfaitenFrancemadeinFranceabased_eaugelintimelubhuileintimesexplorerbienetreintime.jpg?v=1671457981",
+                "width": 2045,
+                "height": 2045
+            },
+            {
+                "id": 31476061569163,
+                "created_at": "2022-12-19T14:53:14+01:00",
+                "position": 4,
+                "updated_at": "2022-12-19T14:53:15+01:00",
+                "product_id": 7061070217355,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/MYLUBIEPRESERVATIFSLATEXNATURELEQUITABLECONDOMSLUBRIFIANTLUBRICANTMyLubieLubrifiantnaturelveganfaitenFrancemadeinFranceabased_eaugelintimelubhuileintimesexplorerbienetre.jpg?v=1671457995",
+                "width": 1365,
+                "height": 1365
+            },
+            {
+                "id": 63610669859156,
+                "created_at": "2025-01-28T18:07:33+01:00",
+                "position": 5,
+                "updated_at": "2025-01-28T18:07:37+01:00",
+                "product_id": 7061070217355,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/livraison-tres-discrete_-_Page_produit.jpg?v=1738084057",
+                "width": 3125,
+                "height": 3125
+            }
+        ],
+        "options": [
+            {
+                "name": "Title",
+                "position": 1,
+                "values": [
+                    "Default Title"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9073579524436,
+        "title": "Le jeu My Lubie + Huile Soin",
+        "handle": "coffret-le-jeu-my-lubie-huile-soin",
+        "body_html": "<p>Un duo idéal pour se mettre dans le mood et sexplorer. <br data-mce-fragment=\"1\">D’un côté, le jeu My Lubie : 120 cartes pour se laisser surprendre par sa sexualité. Beaucoup d’inspiration en matière de pratiques, de positions, de défis - pour sortir de la routine ou s’éloigner des schémas classiques. <br data-mce-fragment=\"1\">De l’autre, notre huile sensorielle délicatement parfumée, parfaite pour se reconnecter au plaisir du toucher.</p>\n<p>-rm-</p>\n<p>Une invitation aux caresses et au massage, pour se faire du bien seul.e, à deux ou plus.  Mention spéciale à sa texture légère, sans sensation de gras. Bonjour la peau radieuse, douce et repulpée. <span data-mce-fragment=\"1\" style=\"font-weight: 300;\" data-mce-style=\"font-weight: 300;\"><br data-mce-fragment=\"1\"></span></p>",
+        "published_at": "2024-04-25T17:42:02+02:00",
+        "created_at": "2024-04-22T18:14:28+02:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "My Lubie",
+        "product_type": "Jeu de cartes",
+        "tags": [],
+        "variants": [
+            {
+                "id": 48000096338260,
+                "title": "Default Title",
+                "option1": "Default Title",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-JEU-HUILE-SOIN",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": null,
+                "available": true,
+                "price": "50.00",
+                "grams": 326,
+                "compare_at_price": null,
+                "position": 2,
+                "product_id": 9073579524436,
+                "created_at": "2024-04-22T18:14:29+02:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 55027106447700,
+                "created_at": "2024-04-25T17:37:11+02:00",
+                "position": 1,
+                "updated_at": "2024-04-25T17:53:18+02:00",
+                "product_id": 9073579524436,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/le-jeu-my-lubie_6.jpg?v=1714060398",
+                "width": 3788,
+                "height": 3788
+            },
+            {
+                "id": 55027106677076,
+                "created_at": "2024-04-25T17:37:11+02:00",
+                "position": 2,
+                "updated_at": "2024-04-25T17:53:18+02:00",
+                "product_id": 9073579524436,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/le-jeu-my-lubie_13_667c8314-9dad-4a36-8508-290106f83f05.jpg?v=1714060398",
+                "width": 4000,
+                "height": 4000
+            },
+            {
+                "id": 55027106775380,
+                "created_at": "2024-04-25T17:37:11+02:00",
+                "position": 3,
+                "updated_at": "2024-04-25T17:53:18+02:00",
+                "product_id": 9073579524436,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/le-jeu-my-lubie_4_55531b73-4747-4db9-a9a3-8b58ef7d678f.jpg?v=1714060398",
+                "width": 4000,
+                "height": 3999
+            },
+            {
+                "id": 55027153404244,
+                "created_at": "2024-04-25T17:41:15+02:00",
+                "position": 4,
+                "updated_at": "2024-04-25T17:53:18+02:00",
+                "product_id": 9073579524436,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/100_d_originenaturelleetvegan.sublimenourritetdetalendpourtoujoursplusdesensationsetdeplaisir.faitenfrance100100excellentuykanaturelcertifieebiohuilesoinmassageetcorp.jpg?v=1714060398",
+                "width": 1300,
+                "height": 1300
+            },
+            {
+                "id": 55027127288148,
+                "created_at": "2024-02-15T19:25:43+01:00",
+                "position": 5,
+                "updated_at": "2024-02-15T19:25:45+01:00",
+                "product_id": 9073579524436,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/huile_soin_image_avis.jpg?v=1708021545",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 55027127189844,
+                "created_at": "2023-12-29T11:21:42+01:00",
+                "position": 6,
+                "updated_at": "2023-12-29T11:21:45+01:00",
+                "product_id": 9073579524436,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/huile-soin-crop.jpg?v=1703845305",
+                "width": 2048,
+                "height": 2048
+            },
+            {
+                "id": 55027153535316,
+                "created_at": "2024-04-25T17:41:15+02:00",
+                "position": 7,
+                "updated_at": "2024-04-25T17:41:24+02:00",
+                "product_id": 9073579524436,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/mylubie-intime-bienetre-sexualwelness-huilesoin-corps-lubrifiant-naturel-vegan-yuka-bio_7fd349ae-e8ec-456c-bf69-b4160c1851c3.jpg?v=1714059684",
+                "width": 1700,
+                "height": 1700
+            },
+            {
+                "id": 63610669859156,
+                "created_at": "2025-01-28T18:07:33+01:00",
+                "position": 8,
+                "updated_at": "2025-01-28T18:07:37+01:00",
+                "product_id": 9073579524436,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/livraison-tres-discrete_-_Page_produit.jpg?v=1738084057",
+                "width": 3125,
+                "height": 3125
+            }
+        ],
+        "options": [
+            {
+                "name": "Title",
+                "position": 1,
+                "values": [
+                    "Default Title"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9057135984980,
+        "title": "Le jeu My Lubie",
+        "handle": "le-jeu-my-lubie",
+        "body_html": "<p>Vous allez voir : votre vie intime n'a pas fini de vous surprendre. La preuve avec ces 120 cartes illustrées avec des pratiques, des positions ou des défis : à utiliser en jeu, en guide d’inspiration, en base de discussion… Pour <em><strong>s'ex</strong></em>plorer de façon curieuse, créative et inclusive.</p><p>-rm-</p><p>Pour sortir de la routine ou s’éloigner des schémas classiques. Pour trouver le plaisir là où on ne l’attendait pas forcément ou cultiver sa sensualité. Pour se découvrir, se faire du bien - et aller plus loin dans son intimité.</p>",
+        "published_at": "2024-04-25T16:55:00+02:00",
+        "created_at": "2024-04-17T11:15:03+02:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "My Lubie",
+        "product_type": "Jeu de cartes",
+        "tags": [
+            "MYLUBIEXTB0225"
+        ],
+        "variants": [
+            {
+                "id": 47976490664276,
+                "title": "Default Title",
+                "option1": "Default Title",
+                "option2": null,
+                "option3": null,
+                "sku": "MYLU-LE-JEU",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": null,
+                "available": true,
+                "price": "25.00",
+                "grams": 78,
+                "compare_at_price": null,
+                "position": 2,
+                "product_id": 9057135984980,
+                "created_at": "2024-04-17T11:15:04+02:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 55027031179604,
+                "created_at": "2024-04-25T17:28:34+02:00",
+                "position": 1,
+                "updated_at": "2024-04-25T17:53:45+02:00",
+                "product_id": 9057135984980,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/le-jeu-my-lubie_3.jpg?v=1714060425",
+                "width": 4000,
+                "height": 4000
+            },
+            {
+                "id": 55027030655316,
+                "created_at": "2024-04-25T17:28:34+02:00",
+                "position": 2,
+                "updated_at": "2024-04-25T17:53:45+02:00",
+                "product_id": 9057135984980,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/le-jeu-my-lubie_13.jpg?v=1714060425",
+                "width": 4000,
+                "height": 4000
+            },
+            {
+                "id": 55027030557012,
+                "created_at": "2024-04-25T17:28:34+02:00",
+                "position": 3,
+                "updated_at": "2024-04-26T11:28:45+02:00",
+                "product_id": 9057135984980,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/le-jeu-my-lubie_1.jpg?v=1714123725",
+                "width": 4000,
+                "height": 4000
+            },
+            {
+                "id": 55027082264916,
+                "created_at": "2024-04-25T17:35:09+02:00",
+                "position": 4,
+                "updated_at": "2024-04-26T11:28:45+02:00",
+                "product_id": 9057135984980,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/le-jeu-my-lubie_2.jpg?v=1714123725",
+                "width": 4000,
+                "height": 4000
+            },
+            {
+                "id": 55027031048532,
+                "created_at": "2024-04-25T17:28:34+02:00",
+                "position": 5,
+                "updated_at": "2024-12-16T10:03:33+01:00",
+                "product_id": 9057135984980,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/le-jeu-my-lubie_4.jpg?v=1734339813",
+                "width": 4000,
+                "height": 3999
+            },
+            {
+                "id": 63610669859156,
+                "created_at": "2025-01-28T18:07:33+01:00",
+                "position": 6,
+                "updated_at": "2025-01-28T18:07:37+01:00",
+                "product_id": 9057135984980,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/livraison-tres-discrete_-_Page_produit.jpg?v=1738084057",
+                "width": 3125,
+                "height": 3125
+            }
+        ],
+        "options": [
+            {
+                "name": "Title",
+                "position": 1,
+                "values": [
+                    "Default Title"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8763816378708,
+        "title": "Menottes en soie + Osmose",
+        "handle": "pack-menottes-en-soie-bougie-osmose",
+        "body_html": "<p>Préparez-vous à vous rapprocher : vous allez vivre un moment de connexion totale. <br>Ce coffret rassemble nos menottes en soie et notre bougie parfumée. Idéal pour créer de nouveaux moments d’intimité ou s’ouvrir aux pratiques BDSM en douceur.</p>\n<p>-rm-</p>\nNos menottes s’ajustent à tous les corps, tandis que le système clipsable multiplie les possibilités : nouer les poignets, les chevilles, s’accrocher aux barreaux d’un lit… Ou tout simplement bander les yeux. <br>Notre bougie parfumée est faite pour réchauffer l’atmosphère et embraser les sens. Un voyage olfactif qui invite aux caresses et libère les esprits (et les corps).\n<ul></ul>",
+        "published_at": "2024-01-10T10:03:42+01:00",
+        "created_at": "2023-12-28T15:45:57+01:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "My Lubie",
+        "product_type": "Menottes",
+        "tags": [
+            "-5.00€"
+        ],
+        "variants": [
+            {
+                "id": 47393200177492,
+                "title": "orange",
+                "option1": "orange",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-BOUGIE-MENOTTES-ORANGE",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": {
+                    "id": 53125338202452,
+                    "product_id": 8763816378708,
+                    "position": 2,
+                    "created_at": "2023-12-28T16:31:22+01:00",
+                    "updated_at": "2023-12-28T16:45:11+01:00",
+                    "alt": "my lubie pack menottes en soie bougie osmose",
+                    "width": 2500,
+                    "height": 2500,
+                    "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/menottes-soie-orange-bougie-osmose-offerte.jpg?v=1703778311",
+                    "variant_ids": [
+                        47393200177492
+                    ]
+                },
+                "available": true,
+                "price": "55.00",
+                "grams": 334,
+                "compare_at_price": null,
+                "position": 1,
+                "product_id": 8763816378708,
+                "created_at": "2023-12-28T15:45:57+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            },
+            {
+                "id": 47393200210260,
+                "title": "vert",
+                "option1": "vert",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-BOUGIE-MENOTTES-VERT",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": {
+                    "id": 53125338267988,
+                    "product_id": 8763816378708,
+                    "position": 1,
+                    "created_at": "2023-12-28T16:31:22+01:00",
+                    "updated_at": "2023-12-28T16:45:11+01:00",
+                    "alt": "my lubie pack menottes en soie bougie osmose",
+                    "width": 2500,
+                    "height": 2500,
+                    "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/menottes-soie-vertes-bougie-osmose-offerte.jpg?v=1703778311",
+                    "variant_ids": [
+                        47393200210260
+                    ]
+                },
+                "available": true,
+                "price": "55.00",
+                "grams": 334,
+                "compare_at_price": null,
+                "position": 2,
+                "product_id": 8763816378708,
+                "created_at": "2023-12-28T15:45:57+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 53125338267988,
+                "created_at": "2023-12-28T16:31:22+01:00",
+                "position": 1,
+                "updated_at": "2023-12-28T16:45:11+01:00",
+                "product_id": 8763816378708,
+                "variant_ids": [
+                    47393200210260
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/menottes-soie-vertes-bougie-osmose-offerte.jpg?v=1703778311",
+                "width": 2500,
+                "height": 2500
+            },
+            {
+                "id": 53125338202452,
+                "created_at": "2023-12-28T16:31:22+01:00",
+                "position": 2,
+                "updated_at": "2023-12-28T16:45:11+01:00",
+                "product_id": 8763816378708,
+                "variant_ids": [
+                    47393200177492
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/menottes-soie-orange-bougie-osmose-offerte.jpg?v=1703778311",
+                "width": 2500,
+                "height": 2500
+            },
+            {
+                "id": 53125054923092,
+                "created_at": "2023-12-28T15:46:10+01:00",
+                "position": 3,
+                "updated_at": "2023-12-28T16:45:11+01:00",
+                "product_id": 8763816378708,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/menottes-soie-my-lubie-coloris_263149c0-8bd9-47fa-8041-f381f9e2f0da.jpg?v=1703778311",
+                "width": 2000,
+                "height": 2000
+            },
+            {
+                "id": 53125439258964,
+                "created_at": "2023-12-28T16:44:58+01:00",
+                "position": 4,
+                "updated_at": "2023-12-28T16:45:11+01:00",
+                "product_id": 8763816378708,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/bougie-osmose-page-produit-pack.jpg?v=1703778311",
+                "width": 2200,
+                "height": 2200
+            },
+            {
+                "id": 53125055021396,
+                "created_at": "2023-12-28T15:46:10+01:00",
+                "position": 5,
+                "updated_at": "2023-12-28T16:45:11+01:00",
+                "product_id": 8763816378708,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/menottes-en-soie-my-lubie-orange-demo_011f68c9-810c-42cf-91d8-c16656ec72da.jpg?v=1703778311",
+                "width": 2000,
+                "height": 2000
+            },
+            {
+                "id": 53125055054164,
+                "created_at": "2023-12-28T15:46:10+01:00",
+                "position": 6,
+                "updated_at": "2023-12-28T16:45:04+01:00",
+                "product_id": 8763816378708,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/menottes-en-soie-demo-vert_9474375c-1dfe-456c-aa17-9bbb00ae94a3.jpg?v=1703778304",
+                "width": 2000,
+                "height": 2000
+            },
+            {
+                "id": 53125055086932,
+                "created_at": "2023-12-28T15:46:10+01:00",
+                "position": 7,
+                "updated_at": "2023-12-28T16:45:04+01:00",
+                "product_id": 8763816378708,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/LIVRAISONDISCRETEFR_a8b3581e-cf30-4ef4-90e6-7a2eb46f873a.jpg?v=1703778304",
+                "width": 1440,
+                "height": 1440
+            }
+        ],
+        "options": [
+            {
+                "name": "colors",
+                "position": 1,
+                "values": [
+                    "orange",
+                    "vert"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6665352577163,
+        "title": "Le duo de lubrifiants",
+        "handle": "duo-de-lubrifiants",
+        "body_html": "<p data-mce-fragment=\"1\">Enrichi en vitamine E, calendula et en algue rouge, le lubrifiant naturel à base d’eau My Lubie est super hydratant et surtout, très lubrifiant. La formule est sans glycérine ni parfum et testée gynécologiquement. Le lube a une texture de gel ni trop épais ni trop fluide qui apporte confort et sensation accrue pendant le rapport. 75ml d’amour. Il est compatible avec les préservatifs et les accessoires de plaisir et s’utilise aussi bien seul qu’à plusieurs.</p>\n<ul data-mce-fragment=\"1\"></ul>",
+        "published_at": "2024-01-04T14:36:12+01:00",
+        "created_at": "2021-11-15T11:15:05+01:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "Shadow",
+        "product_type": "",
+        "tags": [
+            "tag-yuka"
+        ],
+        "variants": [
+            {
+                "id": 39579452571787,
+                "title": "Default Title",
+                "option1": "Default Title",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-LUBEAU-75x2",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": null,
+                "available": true,
+                "price": "30.00",
+                "grams": 178,
+                "compare_at_price": null,
+                "position": 1,
+                "product_id": 6665352577163,
+                "created_at": "2021-11-15T11:15:05+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 28738333999243,
+                "created_at": "2021-11-15T11:16:14+01:00",
+                "position": 1,
+                "updated_at": "2021-11-15T11:16:17+01:00",
+                "product_id": 6665352577163,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/duo-lubrifiant-carre.jpg?v=1636971377",
+                "width": 1800,
+                "height": 1800
+            },
+            {
+                "id": 28738330689675,
+                "created_at": "2021-11-15T11:15:11+01:00",
+                "position": 2,
+                "updated_at": "2021-11-15T11:15:11+01:00",
+                "product_id": 6665352577163,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/mylubielubrifiantnaturelmadeinFrancevegan4_4cee28d0-81a4-4cf2-ab72-4ebd8b945e4c.jpg?v=1636971311",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 28738330624139,
+                "created_at": "2021-11-15T11:15:11+01:00",
+                "position": 3,
+                "updated_at": "2021-11-15T11:15:11+01:00",
+                "product_id": 6665352577163,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/mylubielubrifiantnaturelmadeinFrancevegan3_18a29947-dcfc-4d58-a684-5827c5b5147a.jpg?v=1636971311",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 28738330722443,
+                "created_at": "2021-11-15T11:15:11+01:00",
+                "position": 4,
+                "updated_at": "2021-11-15T11:15:11+01:00",
+                "product_id": 6665352577163,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/mylubielubrifiantnaturelmadeinFrancevegan5_03a22371-16ed-4a63-a714-4874c19e7df8.jpg?v=1636971311",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "id": 63610669859156,
+                "created_at": "2025-01-28T18:07:33+01:00",
+                "position": 5,
+                "updated_at": "2025-01-28T18:07:37+01:00",
+                "product_id": 6665352577163,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/livraison-tres-discrete_-_Page_produit.jpg?v=1738084057",
+                "width": 3125,
+                "height": 3125
+            }
+        ],
+        "options": [
+            {
+                "name": "Title",
+                "position": 1,
+                "values": [
+                    "Default Title"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6665354805387,
+        "title": "Le duo de préservatifs ultra fins",
+        "handle": "le-duo-de-preservatifs-ultra-fins",
+        "body_html": "<div>\n<p data-mce-fragment=\"1\">Une protection indispensable contre les MST, IST ou grossesses non désirées… Mais qui sait se faire oublier. Pour développer nos préservatifs ultra-fins, il nous fallait de la fiabilité, zéro ingrédient controversé, du latex durable et aucune odeur désagréable. La voici : trois boîtes de 12 préservatifs, fabriqués par une usine spécialisée, à partir de latex naturel équitable labélisé RRI (Regenerative Rubber Initiative).</p>\n<p>-rm-</p>\nChaque préservatif est testé électroniquement pour une protection optimale* et répond aux normes européennes les plus strictes. On a pensé à tout, pour que vous n’ayez plus qu’à profiter.</div>\n<div><i data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">*On en profite pour vous dire que la 1ère cause de craquage de préservatif est un manque de lubrification : utilisez-les avec notre lubrifiant naturel à base d’eau pour plus de confort et de plaisir.</span></i></div>\n<div>\n<ul data-mce-fragment=\"1\"></ul>\n<br>\n</div>\n<ul></ul>",
+        "published_at": "2024-01-04T12:15:23+01:00",
+        "created_at": "2021-11-15T11:22:16+01:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "Shadow",
+        "product_type": "",
+        "tags": [
+            "tag-equitable"
+        ],
+        "variants": [
+            {
+                "id": 47415893066068,
+                "title": "Standard",
+                "option1": "Standard",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-12CONDOMS-THINx2",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": {
+                    "id": 28738345304203,
+                    "product_id": 6665354805387,
+                    "position": 1,
+                    "created_at": "2021-11-15T11:22:37+01:00",
+                    "updated_at": "2024-07-10T16:59:38+02:00",
+                    "alt": "my lubie duo de préservatifs en latex naturels super fins",
+                    "width": 4000,
+                    "height": 4000,
+                    "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/duo-preservatifcarre.png?v=1720623578",
+                    "variant_ids": [
+                        47415893066068
+                    ]
+                },
+                "available": true,
+                "price": "24.00",
+                "grams": 81,
+                "compare_at_price": "0.00",
+                "position": 1,
+                "product_id": 6665354805387,
+                "created_at": "2024-01-04T11:49:00+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            },
+            {
+                "id": 47415893098836,
+                "title": "Large",
+                "option1": "Large",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-12CONDOMS-LARGEx2",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": {
+                    "id": 53285399265620,
+                    "product_id": 6665354805387,
+                    "position": 2,
+                    "created_at": "2024-01-12T11:40:16+01:00",
+                    "updated_at": "2024-07-11T15:44:56+02:00",
+                    "alt": "my lubie duo de préservatifs en latex naturels super fins large",
+                    "width": 1000,
+                    "height": 1000,
+                    "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/2G2A6792_1.jpg?v=1720705496",
+                    "variant_ids": [
+                        47415893098836
+                    ]
+                },
+                "available": true,
+                "price": "24.00",
+                "grams": 89,
+                "compare_at_price": "0.00",
+                "position": 2,
+                "product_id": 6665354805387,
+                "created_at": "2024-01-04T11:49:00+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 28738345304203,
+                "created_at": "2021-11-15T11:22:37+01:00",
+                "position": 1,
+                "updated_at": "2024-07-10T16:59:38+02:00",
+                "product_id": 6665354805387,
+                "variant_ids": [
+                    47415893066068
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/duo-preservatifcarre.png?v=1720623578",
+                "width": 4000,
+                "height": 4000
+            },
+            {
+                "id": 53285399265620,
+                "created_at": "2024-01-12T11:40:16+01:00",
+                "position": 2,
+                "updated_at": "2024-07-11T15:44:56+02:00",
+                "product_id": 6665354805387,
+                "variant_ids": [
+                    47415893098836
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/2G2A6792_1.jpg?v=1720705496",
+                "width": 1000,
+                "height": 1000
+            },
+            {
+                "id": 28738344222859,
+                "created_at": "2021-11-15T11:22:23+01:00",
+                "position": 3,
+                "updated_at": "2024-07-11T15:45:10+02:00",
+                "product_id": 6665354805387,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/MYLUBIEPRESERVATIFSLATEXNATURELEQUITABLECONDOMSLUBRIFIANTLUBRICANT5_66481499-7e40-4f2d-94de-b204f158fb3d.jpg?v=1720705510",
+                "width": 1263,
+                "height": 1264
+            },
+            {
+                "id": 28738344255627,
+                "created_at": "2021-11-15T11:22:24+01:00",
+                "position": 4,
+                "updated_at": "2024-07-11T15:45:10+02:00",
+                "product_id": 6665354805387,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/MYLUBIEPRESERVATIFSLATEXNATURELEQUITABLECONDOMSLUBRIFIANTLUBRICANT2_e2886ed1-f98f-41c6-87af-a4dd7034948c.jpg?v=1720705510",
+                "width": 1365,
+                "height": 1365
+            },
+            {
+                "id": 28738344288395,
+                "created_at": "2021-11-15T11:22:24+01:00",
+                "position": 5,
+                "updated_at": "2024-07-11T15:45:10+02:00",
+                "product_id": 6665354805387,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/MYLUBIEPRESERVATIFSLATEXNATURELEQUITABLECONDOMSLUBRIFIANTLUBRICANT3_b847db67-ac29-42ff-80a7-094b183c2ee6.jpg?v=1720705510",
+                "width": 1255,
+                "height": 1255
+            },
+            {
+                "id": 28738344321163,
+                "created_at": "2021-11-15T11:22:24+01:00",
+                "position": 6,
+                "updated_at": "2024-07-11T15:45:10+02:00",
+                "product_id": 6665354805387,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/MYLUBIEPRESERVATIFSLATEXNATURELEQUITABLECONDOMSLUBRIFIANTLUBRICANT6_1b1d3825-2d8f-44ec-8566-c905c6856ca9.jpg?v=1720705510",
+                "width": 977,
+                "height": 978
+            },
+            {
+                "id": 56587998626132,
+                "created_at": "2024-07-10T16:55:18+02:00",
+                "position": 7,
+                "updated_at": "2024-07-10T16:55:20+02:00",
+                "product_id": 6665354805387,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/2G2A3730_1.jpg?v=1720623320",
+                "width": 3000,
+                "height": 3000
+            },
+            {
+                "id": 56588003148116,
+                "created_at": "2024-07-10T16:55:29+02:00",
+                "position": 8,
+                "updated_at": "2024-07-10T16:55:31+02:00",
+                "product_id": 6665354805387,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/2G2A3738_1.jpg?v=1720623331",
+                "width": 3000,
+                "height": 3000
+            },
+            {
+                "id": 56588083200340,
+                "created_at": "2024-07-10T16:58:31+02:00",
+                "position": 9,
+                "updated_at": "2024-07-10T16:58:33+02:00",
+                "product_id": 6665354805387,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/2G2A4849_2.jpg?v=1720623513",
+                "width": 3000,
+                "height": 3000
+            },
+            {
+                "id": 56588092604756,
+                "created_at": "2024-07-10T16:58:46+02:00",
+                "position": 10,
+                "updated_at": "2024-07-10T16:58:48+02:00",
+                "product_id": 6665354805387,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/2G2A4851_2.jpg?v=1720623528",
+                "width": 3000,
+                "height": 3000
+            },
+            {
+                "id": 63610669859156,
+                "created_at": "2025-01-28T18:07:33+01:00",
+                "position": 11,
+                "updated_at": "2025-01-28T18:07:37+01:00",
+                "product_id": 6665354805387,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/livraison-tres-discrete_-_Page_produit.jpg?v=1738084057",
+                "width": 3125,
+                "height": 3125
+            }
+        ],
+        "options": [
+            {
+                "name": "Taille",
+                "position": 1,
+                "values": [
+                    "Standard",
+                    "Large"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8642039480660,
+        "title": "Menottes en soie",
+        "handle": "les-menottes-en-soie-avec-anneaux-clipsables",
+        "body_html": "<p> La plus douce des introductions à l’univers BDSM. Ces menottes s’ajustent à tous les corps, tandis que le système clipsable permet d’ouvrir de nouveaux horizons : nouer les poignets, les chevilles, s’accrocher aux barreaux d’un lit… Ou tout simplement bander les yeux. Une perte de liberté temporaire et contrôlée pour lâcher prise, communiquer à deux (ou plus) ou s’ouvrir de nouveaux horizons.</p>\n<p>L'édition limitée des menottes couleur lilas est victime de son succès !</p>",
+        "published_at": "2023-10-30T17:59:12+01:00",
+        "created_at": "2023-10-30T11:54:39+01:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "My Lubie",
+        "product_type": "Menottes",
+        "tags": [
+            "MYLUBIEXTB0225"
+        ],
+        "variants": [
+            {
+                "id": 47116730859860,
+                "title": "vert",
+                "option1": "vert",
+                "option2": null,
+                "option3": null,
+                "sku": "MYLU-MENOTTES-VERT",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": {
+                    "id": 52600256725332,
+                    "product_id": 8642039480660,
+                    "position": 1,
+                    "created_at": "2023-11-22T11:49:08+01:00",
+                    "updated_at": "2024-12-16T11:18:27+01:00",
+                    "alt": "my lubie menottes en soie vert",
+                    "width": 2000,
+                    "height": 2000,
+                    "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/menottes-en-soie-my-lubie-vert-packshot.jpg?v=1734344307",
+                    "variant_ids": [
+                        47116730859860
+                    ]
+                },
+                "available": true,
+                "price": "40.00",
+                "grams": 138,
+                "compare_at_price": null,
+                "position": 1,
+                "product_id": 8642039480660,
+                "created_at": "2023-10-30T11:54:40+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            },
+            {
+                "id": 47116730794324,
+                "title": "orange",
+                "option1": "orange",
+                "option2": null,
+                "option3": null,
+                "sku": "MYLU-MENOTTES-ORANGE",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": {
+                    "id": 52301549568340,
+                    "product_id": 8642039480660,
+                    "position": 2,
+                    "created_at": "2023-10-30T11:54:39+01:00",
+                    "updated_at": "2024-12-16T10:20:22+01:00",
+                    "alt": "menottes-soie-my-lubie-orange-packshot",
+                    "width": 2000,
+                    "height": 2000,
+                    "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/menottes-en-soie-orange-packshot.jpg?v=1734340822",
+                    "variant_ids": [
+                        47116730794324
+                    ]
+                },
+                "available": true,
+                "price": "40.00",
+                "grams": 138,
+                "compare_at_price": null,
+                "position": 2,
+                "product_id": 8642039480660,
+                "created_at": "2023-10-30T11:54:39+01:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 52600256725332,
+                "created_at": "2023-11-22T11:49:08+01:00",
+                "position": 1,
+                "updated_at": "2024-12-16T11:18:27+01:00",
+                "product_id": 8642039480660,
+                "variant_ids": [
+                    47116730859860
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/menottes-en-soie-my-lubie-vert-packshot.jpg?v=1734344307",
+                "width": 2000,
+                "height": 2000
+            },
+            {
+                "id": 52301549568340,
+                "created_at": "2023-10-30T11:54:39+01:00",
+                "position": 2,
+                "updated_at": "2024-12-16T10:20:22+01:00",
+                "product_id": 8642039480660,
+                "variant_ids": [
+                    47116730794324
+                ],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/menottes-en-soie-orange-packshot.jpg?v=1734340822",
+                "width": 2000,
+                "height": 2000
+            },
+            {
+                "id": 52301549076820,
+                "created_at": "2023-10-30T11:54:39+01:00",
+                "position": 3,
+                "updated_at": "2024-12-16T10:19:48+01:00",
+                "product_id": 8642039480660,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/menottes-soie-my-lubie-coloris.jpg?v=1734340788",
+                "width": 2000,
+                "height": 2000
+            },
+            {
+                "id": 52301548847444,
+                "created_at": "2023-10-30T11:54:39+01:00",
+                "position": 4,
+                "updated_at": "2024-03-18T17:13:38+01:00",
+                "product_id": 8642039480660,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/menottes-en-soie-my-lubie-orange-demo.jpg?v=1710778418",
+                "width": 2000,
+                "height": 2000
+            },
+            {
+                "id": 52301549470036,
+                "created_at": "2023-10-30T11:54:39+01:00",
+                "position": 5,
+                "updated_at": "2024-12-16T10:26:33+01:00",
+                "product_id": 8642039480660,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/menottes-en-soie-demo-vert.jpg?v=1734341193",
+                "width": 2000,
+                "height": 2000
+            },
+            {
+                "id": 63610669859156,
+                "created_at": "2025-01-28T18:07:33+01:00",
+                "position": 6,
+                "updated_at": "2025-01-28T18:07:37+01:00",
+                "product_id": 8642039480660,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/livraison-tres-discrete_-_Page_produit.jpg?v=1738084057",
+                "width": 3125,
+                "height": 3125
+            }
+        ],
+        "options": [
+            {
+                "name": "colors",
+                "position": 1,
+                "values": [
+                    "vert",
+                    "orange"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7024740827275,
+        "title": "Osmose, bougie sensuelle parfumée",
+        "handle": "bougie-osmose",
+        "body_html": "<p><span data-mce-fragment=\"1\" style=\"font-weight: 400;\" data-mce-style=\"font-weight: 400;\">Éteignez la lumière et allumez la flamme. </span></p>\n<p>Osmose est une bougie parfumée faite pour réchauffer l’atmosphère et embraser les sens. Un voyage olfactif qui invite aux caresses et libère les esprits (et les corps).</p>\n<p>C’est nous ou il y a de la sensualité dans l’air ?</p>",
+        "published_at": "2023-10-23T16:49:43+02:00",
+        "created_at": "2022-10-27T14:22:02+02:00",
+        "updated_at": "2025-02-20T15:34:34+01:00",
+        "vendor": "My Lubie",
+        "product_type": "Bougie parfumée",
+        "tags": [],
+        "variants": [
+            {
+                "id": 41005817462923,
+                "title": "Default Title",
+                "option1": "Default Title",
+                "option2": null,
+                "option3": null,
+                "sku": "PACK-CANDLE-70G-ALLUMETTES",
+                "requires_shipping": true,
+                "taxable": true,
+                "featured_image": null,
+                "available": true,
+                "price": "20.00",
+                "grams": 196,
+                "compare_at_price": null,
+                "position": 1,
+                "product_id": 7024740827275,
+                "created_at": "2022-10-27T14:22:02+02:00",
+                "updated_at": "2025-02-20T15:34:34+01:00"
+            }
+        ],
+        "images": [
+            {
+                "id": 31046525386891,
+                "created_at": "2022-10-27T14:22:02+02:00",
+                "position": 1,
+                "updated_at": "2022-10-27T14:22:04+02:00",
+                "product_id": 7024740827275,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/Bougie-osmose-my-lubie-sex-sexual-welness-intiminte-lubrifiant-naturel-vegan-fait-en-france-sexualite.jpg?v=1666873324",
+                "width": 2100,
+                "height": 2100
+            },
+            {
+                "id": 31046525419659,
+                "created_at": "2022-10-27T14:22:02+02:00",
+                "position": 2,
+                "updated_at": "2022-10-27T14:22:04+02:00",
+                "product_id": 7024740827275,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/Bougie-osmose-my-lubie-sex-sexual-welness-intiminte-lubrifiant-naturel-vegan-fait-en-france-sexualite-1.jpg?v=1666873324",
+                "width": 1100,
+                "height": 1100
+            },
+            {
+                "id": 31046525452427,
+                "created_at": "2022-10-27T14:22:02+02:00",
+                "position": 3,
+                "updated_at": "2022-10-27T14:22:04+02:00",
+                "product_id": 7024740827275,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/Bougie-osmose-my-lubie-sex-sexual-welness-intiminte-lubrifiant-naturel-vegan-fait-en-france-sexualite-3.jpg?v=1666873324",
+                "width": 1600,
+                "height": 1600
+            },
+            {
+                "id": 31052259491979,
+                "created_at": "2022-10-28T11:43:59+02:00",
+                "position": 4,
+                "updated_at": "2022-10-28T11:44:00+02:00",
+                "product_id": 7024740827275,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/Bougie-osmose-my-lubie-sex-sexual-welness-intiminte-lubrifiant-naturel-vegan-fait-en-france-sexualite-france.jpg?v=1666950240",
+                "width": 2200,
+                "height": 2200
+            },
+            {
+                "id": 31052259524747,
+                "created_at": "2022-10-28T11:43:59+02:00",
+                "position": 5,
+                "updated_at": "2022-10-28T11:44:00+02:00",
+                "product_id": 7024740827275,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/products/Bougie-osmose-my-lubie-sex-sexual-welness-intiminte-lubrifiant-naturel-vegan-fait-en-france-sexualite-my-lubie.jpg?v=1666950240",
+                "width": 2200,
+                "height": 2200
+            },
+            {
+                "id": 63610669859156,
+                "created_at": "2025-01-28T18:07:33+01:00",
+                "position": 6,
+                "updated_at": "2025-01-28T18:07:37+01:00",
+                "product_id": 7024740827275,
+                "variant_ids": [],
+                "src": "https://cdn.shopify.com/s/files/1/0315/8802/4459/files/livraison-tres-discrete_-_Page_produit.jpg?v=1738084057",
+                "width": 3125,
+                "height": 3125
+            }
+        ],
+        "options": [
+            {
+                "name": "Title",
+                "position": 1,
+                "values": [
+                    "Default Title"
+                ]
+            }
+        ]
+    }
+]
