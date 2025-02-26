@@ -22,6 +22,23 @@ with open(faq_file, "r", encoding="utf-8") as f:
 faq_str = json.dumps(faq_load, indent=2)
 
 # -----------------------
+# GLOBAL Instruction
+# -----------------------
+system_instruction = (
+                    'En fonction du type de besoin, tu dois renvoyer le champ request_type associé '
+                    'Le champ confidence_score doit déterminier ton niveau de certitude sur le type de question. Il vaut 0 si tu n''es pas sur du tout et il faut 1 si tu es sur et certain '
+                    'Si on te dit des banalités (hello, ca va, bojour etc), répond dans le sens de la question et précise que tu peux répondre aux questions liées à la marque '
+                    'Questions sur un produit -> return request_type= "product_info" '
+                    'Question sur la marque -> return request_type= "faq" '
+                    'Question sur une commande -> return request_type= "order" '
+                    'Question ou phrase générique sans but précis ou hors contexte de MyLubie -> return request_type= "out_of_scope" '
+                    'Si tu penses que l"utilisateur a des problemes, alors tu peux renseigner ces problemes dans le champ problem '
+                    'Si l"utilisateur donne son nom tu peux retourner la valeur dans le champ name '
+                    'Si l"utilisateur donne son numéro de commande tu peux retourner la valeur dans le champ order_number '
+                    'Si l"utilisateur donne son email tu peux retourner la valeur dans le champ order_email '
+                    'Tu dois renvoyer la liste des produits ou informations demandées par l''utilisateur dans le champ request_need ')
+
+# -----------------------
 # GLOBAL CONVERSATION HISTORY
 # -----------------------
 conversation_history = [
@@ -31,9 +48,13 @@ conversation_history = [
                     'Tu es implémenté sur le site internet de la marque, et tu dois répondre au mieux aux questions des clients.'
                     f"Voici la liste des produits avec les informations dans lesquelles tu peux chercher des réponses products_str={products_str}"
                     f"Voici la liste des questions réponses dans lesquelles tu peux chercher des réponses faq_str={faq_str}"
+                    "Dans toutes tes réponses, adaptes ta manière de réponse afin de correspondre au style d'écriture que tu trouves dans le document faq_str"
+                    f"{system_instruction}"
+
         )
     }
 ]
+
 
 def add_message(role, content):
     """
@@ -69,24 +90,9 @@ class UserRequest(BaseModel):
 # 1) DETERMINE USER REQUEST TYPE
 # -----------------------
 def users_requests_type(user_prompt: str):
-    # Step 1: Add the system instruction for this stage
-    system_instruction = ('Tu es l''assistant virtuel de MyLubie, une entreprise française qui vend des produits de bien être intime liés à la sexualité.'
-                                             'Tu es implémenté sur le site internet de la marque, et tu dois répondre au mieux aux questions des clients. Tu dois d''abord déterminer le type de besoin de l''utilisateur:'
-                                             'En fonction du type de besoi, tu dois renvoyer le champ request_type associé'
-                                             'Le champ confidence_score doit déterminier ton niveau de certitude sur le type de question. Il vaut 0 si tu n''es pas sur du tout et il faut 1 si tu es sur et certain'
-                                             '1. Questions sur un produit -> return request_type= "product_info" '
-                                             '2. Question générique sur la marque -> return request_type= "faq" '
-                                             '3. Question sur une commande -> return request_type= "order"'
-                                             '4. Si tu penses que l"utilisateur a des problemes, alors tu peux renseigner ces problemes dans le champ problem'
-                                             '5. Si l"utilisateur donne son nom tu peux retourner la valeur dans le champ name'
-                                             '6. Si l"utilisateur donne son numéro de commande tu peux retourner la valeur dans le champ order_number'
-                                             '7. Si l"utilisateur donne son email tu peux retourner la valeur dans le champ order_email'
-                                             'Tu dois renvoyer la liste des produits ou informations demandées par l''utilisateur dans le champ request_need')
-    add_message("system", system_instruction)
-
     # Step 2: Add the user's message
     add_message("user", user_prompt)
-    print(f"history is {conversation_history}")
+    # print(f"history is {conversation_history}")
     # Step 3: Call OpenAI with the entire conversation
     completion = client.beta.chat.completions.parse(
         model="gpt-4o-mini",
@@ -96,7 +102,6 @@ def users_requests_type(user_prompt: str):
 
     # Step 4: Extract the structured response
     result = completion.choices[0].message.parsed
-    print(result)
     # Step 5: Add the assistant's raw text to history
     add_message("assistant", str(result.model_dump()))
 
@@ -107,9 +112,7 @@ def users_requests_type(user_prompt: str):
 # 2) PRODUCT QUESTIONS
 # -----------------------
 def product(prompt):
-    add_message("system", "Tu es l''assistant virtuel de MyLubie, une entreprise française qui vend des produits de bien être intime liés à la sexualité.")
     add_message("user", prompt)
-
     # Add product data to the conversation
     # add_message("system", f"Cherche dans la liste de produit suivantes la réponse à la question posée par l''utilisateur{products_str}.")
     add_message("system", "Cherche dans la liste de produit products_str")
@@ -124,7 +127,6 @@ def product(prompt):
 
     result = completion.choices[0].message.content
     add_message("assistant", result)
-    print(result)
     return result
 
 
@@ -164,6 +166,22 @@ def order(prompt, user_request):
     result = completion.choices[0].message.content
     add_message("assistant", result)
     return result
+# -----------------------
+# 5) Out of scope
+# -----------------------
+def oos(prompt):
+    add_message("system", ("L'utilisateur pose une question ou dit quelque chose qui n'a pas de rapport direct avec MyLubie"
+                            'Répond lui gentillement et indique tu peux répondre à toutes les questions concernant la marque MyLubie'))
+    add_message("user", prompt)
+    print(conversation_history)
+    completion = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=conversation_history
+    )
+
+    result = completion.choices[0].message.content
+    add_message("assistant", result)
+    return result
 
 
 # -----------------------
@@ -171,18 +189,16 @@ def order(prompt, user_request):
 # -----------------------
 def process_user_request(user_prompt: str, history):
     if history!=None:
-        print('in add message')
-        print(history)
         add_message_full(history)
     user_request = users_requests_type(user_prompt)
-
+    print(f"confience score : >>> {user_request.confidence_score}")
+    print(f"confience score : >>> {user_request.request_type}")
     # If not confident
-    if user_request.confidence_score < 0.6:
-        apology = "Pardonnez-moi, je ne pense pas pouvoir répondre à cela. Veuillez reformuler."
-        print(apology)
-        add_message("assistant", apology)
-        add_message("user", user_prompt)
-        return None
+    # if user_request.confidence_score < 0.6:
+    #     apology = "Pardonnez-moi, je ne pense pas pouvoir répondre à cela. Veuillez reformuler."
+    #     add_message("assistant", apology)
+    #     add_message("user", user_prompt)
+    #     return None
 
     # Route by request_type
     if user_request.request_type == "product_info":
@@ -191,9 +207,11 @@ def process_user_request(user_prompt: str, history):
         return faq(user_prompt)
     elif user_request.request_type == "order":
         return order(user_prompt, user_request)
+    elif user_request.request_type == "out_of_scope":
+        print("in oos")
+        return oos(user_prompt)
     else:
         apology = "Pardonnez-moi, je ne pense pas pouvoir répondre à cela. Veuillez reformuler."
-        print(apology)
         add_message("assistant", apology)
         return None
 
@@ -203,11 +221,9 @@ def process_user_request(user_prompt: str, history):
 # -----------------------
 if __name__ == "__main__":
     print("Bonjour, je suis l'assistant de MyLubie. Comment puis-je vous aider ?\n")
-
     while True:
         # print(f"history : {conversation_history}")
         user_input = input("> ")
         if not user_input:
             break  # end if user presses Enter with no text
         response = process_user_request(user_input, None)
-        print(response)
