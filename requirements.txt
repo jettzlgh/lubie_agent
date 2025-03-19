@@ -1,0 +1,8 @@
+streamlit
+openai
+pydantic
+fastapi[standard]
+typing
+uvicorn
+google-cloud-storage
+contextlib
